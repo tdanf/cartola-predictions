@@ -1,0 +1,699 @@
+,atletas.apelido,atletas.clube.id.full.name,atletas.nome,atletas.posicao_id,atletas.rodada_id,atletas.preco_num,atletas.pontos_num_sum_last5,atletas.media_num,pred_score
+7248,Otero,Atlético-MG,Rómulo Otero Vásquez,mei,27,14.81,26.200000000000006,16.5,4.770996761742124
+7249,Diego,Flamengo,Diego Ribas da Cunha,mei,27,10.89,39.8,0.8,3.7609868067573884
+7250,Rodriguinho,Corinthians,Rodrigo Eduardo Costa Marinho,mei,27,23.08,18.5,16.5,2.8356001773575046
+7251,Rafael Moura,América-MG,Rafael Martiniano de Miranda Moura,ata,27,10.4,9.0,5.1,3.0123527540008035
+7252,Gerson Magrão,América-MG,Gerson Alencar de Lima Junior,mei,27,4.27,26.1,1.2,3.8143243915116045
+7253,Rafael Lima,América-MG,Rafael Ramos de Lima,zag,27,8.4,7.9,6.2,3.129333964488353
+7254,Wesley,América-MG,Wesley Lopes Beltrame,mei,27,3.1,10.7,-0.5,2.8298022792311945
+7255,Carlinhos,América-MG,Carlos Emiliano Pereira,lat,27,14.4,22.6,15.9,4.5387371857690075
+7256,Luan,América-MG,Luan Michel de Louzã,ata,27,12.88,12.1,11.7,3.210535776602704
+7257,Enderson Moreira,América-MG,Enderson Alves Moreira,tec,27,8.99,17.69,10.05,4.151677524958121
+7258,Messias,América-MG,Messias Rodrigues da Silva Júnior,zag,27,9.37,8.899999999999997,9.6,3.1932639717792886
+7259,Juninho,América-MG,Adilson dos Anjos Oliveira,mei,27,4.55,12.4,2.6,2.938483291625785
+7260,Aylon,América-MG,Aylon Darwin Tavella,ata,27,7.65,11.9,5.1,3.197749775144517
+7261,Norberto ,América-MG,Norberto Pereira Marinho Neto,lat,27,9.58,12.2,10.9,3.8738651099432757
+7262,Zé Ricardo,América-MG,José Ricardo Barbosa Ribeiro Drumond,mei,27,0.96,7.899999999999999,0.4,2.6507982588165744
+7263,Serginho,América-MG,Sergio Antonio Soler de Oliveira Junior,mei,27,15.78,21.6,17.9,3.526639358702394
+7264,Christian,América-MG,Christian Sávio Machado,mei,27,9.44,20.5,10.7,3.4563163506823646
+7265,Jory,América-MG,Joriwinnyson Santos dos Anjos Rodrigues,gol,27,10.13,3.8,13.7,3.007805452833144
+7266,Camacho,Atlético-PR,Guilherme de Aguiar Camacho,mei,27,7.37,8.0,4.7,1.5167560170311458
+7267,Ricardo Oliveira,Atlético-MG,Ricardo de Oliveira,ata,27,2.76,15.2,-1.0,4.35899816870603
+7268,Fábio Santos,Atlético-MG,Fábio Santos Romeu,lat,27,5.51,16.700000000000006,-2.0,5.111829512253912
+7269,Elias,Atlético-MG,Elias Mendes Trindade,mei,27,9.02,30.1,1.1,5.020323790176772
+7270,Luan,Atlético-MG,Luan Madson Gedeão De Paiva,ata,27,13.16,22.5,11.1,4.82568722192986
+7271,Patric,Atlético-MG,Patric Cabral Lalau,lat,27,4.27,2.3,-0.8,4.191237407264437
+7272,Cazares,Atlético-MG,Juan Ramón Cazares Sevillano,mei,27,11.09,8.1,5.1,3.6138636297761866
+7273,Gabriel,Atlético-MG,Gabriel Costa França,zag,27,7.92,3.3,-0.5,3.7855353004514742
+7274,Róger Guedes,Atlético-MG,Róger Krug Guedes,ata,27,4.62,60.8,-0.3,7.274206501172698
+7275,Gustavo Blanco,Atlético-MG,Gustavo Blanco Petersen Macedo,mei,27,12.68,41.0,15.4,5.717160869647971
+7276,Yago,Atlético-MG,Yago Henrique Severino dos Santos,mei,27,0.69,-3.0,-3.0,2.9042405488468006
+7277,Bremer,Atlético-MG,Gleison Bremer Silva Nascimento,zag,27,2.69,11.0,-0.1,4.277796356591679
+7278,Jonathan,Atlético-PR,Jonathan Cícero Moreira,lat,27,9.78,15.400000000000002,6.2,2.938005890759748
+7279,Thiago Larghi,Atlético-MG,Thiago Larghi,tec,27,6.3,19.65,4.15,5.227259708749779
+7280,Victor,Atlético-MG,Victor Leandro Bagy,gol,27,12.47,25.6,4.1,5.3517589812769675
+7281,Thiago Carleto,Atlético-PR,Thiago Carleto Alves,lat,27,12.54,31.9,13.2,3.9928510110601865
+7282,Nikão,Atlético-PR,Maycon Vinícius Ferreira da Cruz,mei,27,13.43,14.3,10.5,1.9195150629640407
+7283,Pablo,Atlético-PR,Pablo Felipe Teixeira,ata,27,8.75,41.1,8.7,3.9240707455253174
+7284,Santos,Atlético-PR,Aderbar Melo dos Santos Neto,gol,27,3.24,18.9,-2.3,2.832713320411751
+7285,Éderson,Atlético-PR,Éderson Alves Ribeiro Silva,ata,27,9.92,9.4,9.4,1.8974895144026553
+7286,Fernando Diniz,Atlético-PR,Fernando Diniz Silva,tec,27,8.8,12.53,6.77,2.6813634448223698
+7287,Pavez,Atlético-PR,Esteban Andrés Pavez Suazo,mei,27,6.13,11.7,1.9,1.7532970440076077
+7288,Matheus Rossetto,Atlético-PR,Matheus Rossetto,mei,27,12.88,7.199999999999998,12.7,1.465612011198397
+7289,Ribamar,Atlético-PR,Lucas Ribamar Lopes dos Santos Bibiano,ata,27,6.13,3.9,2.9,1.5458744743025088
+7290,Zé Ivaldo,Atlético-PR,José Ivaldo Almeida Silva,zag,27,0.69,20.9,-3.6,2.8199888167559948
+7291,Bruno Guimarães,Atlético-PR,Bruno Guimarães Rodriguez Moura,mei,27,5.65,7.7,5.2,1.497577014843865
+7292,Gatito Fernández,Botafogo,Roberto Junior Fernández Torres,gol,27,11.78,16.1,3.1,2.5091343136699553
+7293,Raphael Veiga,Atlético-PR,Raphael Cavalcante Veiga,mei,27,7.58,29.7,5.0,2.9040371752444507
+7294,Guto Ferreira,Bahia,Augusto Sérgio Ferreira,tec,27,6.53,13.16,2.48,4.221833178496166
+7295,Douglas Grolli,Bahia,Douglas Ricardo Grolli,zag,27,2.89,8.9,0.2,3.553022558345273
+7296,Edigar Junio,Bahia,Edigar Junio Teixeira Lima ,ata,27,6.82,9.0,0.9,3.3721113405667875
+7297,Vinícius,Bahia,Vinícius Goes Barbosa de Souza,mei,27,7.3,0.2999999999999998,-0.4,2.524688789971447
+7298,Elton,Bahia,Elton Junior Melo Ataíde,mei,27,6.13,3.2000000000000006,2.9,2.710085811115161
+7299,Tiago ,Bahia,Tiago Pagnussat,zag,27,6.48,26.9,1.4,4.703762689582115
+7300,Douglas Friedrich,Bahia,Douglas Alan Schuck Friedrich,gol,27,2.89,8.7,-0.8,3.6808210751247135
+7301,Nino Paraíba,Bahia,Severino do Ramo Clementino da Silva,lat,27,9.09,29.3,7.2,5.326826821184261
+7302,Zé Rafael ,Bahia,José Rafael Vivian,mei,27,17.02,29.500000000000004,6.7,4.39144500286677
+7303,Léo,Bahia,Leonardo Pinheiro da Conceição,lat,27,5.86,5.9,3.5,3.8308646505763653
+7304,Emerson Sheik,Corinthians,Márcio Passos de Albuquerque,ata,27,9.99,15.2,6.5,2.915862640461616
+7305,Régis,Bahia,Régis Augusto Salmazzo,mei,27,4.96,15.8,0.2,3.515603902980951
+7306,Allione,Bahia,Agustín Lionel Allione,mei,27,6.34,14.7,0.2,3.4452808949609217
+7307,Ralf,Corinthians,Ralf de Souza Telles,mei,27,8.96,3.7,3.0,1.889436069451656
+7308,Gregore,Bahia,Gregore de Magalhães da Silva,mei,27,5.03,16.4,4.3,3.5539619073555118
+7309,Nelsinho Baptista,Sport,Nélson Baptista Júnior,tec,27,5.79,1.41,1.41,1.8746698433852065
+7310,Wellington,Vasco,Wellington Aparecido Martins,mei,27,4.55,1.9,0.6,1.6375157502850368
+7311,Marco Antônio,Bahia,Marco Antônio Rosa Furtado Júnior,mei,27,1.72,0.3999999999999999,1.5,2.531081790700541
+7312,Werley,Vasco,Werley Ananias da Silva,zag,27,5.58,6.4,4.1,2.403736488766026
+7313,Paulão,Vasco,Paulo Marcos de Jesus Ribeiro,zag,27,5.65,1.7000000000000004,3.2,2.1032654544986285
+7314,Cássio,Corinthians,Cássio Ramos,gol,27,9.44,5.4,0.7,2.617237305755653
+7315,Júnior Brumado,Bahia,José Francisco dos Santos Júnior,ata,27,1.72,1.4,-0.5,2.8862432851556763
+7316,Anselmo,Sport,Anselmo de Moraes,mei,27,10.13,58.50000000000001,6.7,4.649429464861441
+7317,Fellipe Bastos,Sport,Fellipe Ramos Ignez Bastos,mei,27,3.38,11.1,0.9,1.6191471192710882
+7318,Fagner,Corinthians,Fagner Conserva Lemos,lat,27,12.06,17.000000000000004,0.5,3.687872986196779
+7319,Agenor,Sport,Agenor Detofol,gol,27,0.69,-6.0,-6.0,1.1450642185054938
+7320,Martín Silva,Vasco,Martín Andrés Silva,gol,27,12.4,11.2,4.0,2.851185042000145
+7321,Henrique,Corinthians,Henrique Adriano Buss,zag,27,8.82,12.7,2.8,2.943341840741856
+7322,Gabriel,Sport,Gabriel Santana Pinto,mei,27,4.96,16.1,1.2,1.938797155725767
+7323,Thiago Galhardo,Vasco,Thiago Galhardo do Nascimento Rocha,mei,27,7.37,7.6,5.7,2.0019167918433705
+7324,Gilson,Botafogo,Gilson Gomes do Nascimento,lat,27,5.3,17.799999999999994,3.7,2.946862921930817
+7325,Rodrigo Pimpão,Botafogo,Rodrigo Pimpão Viana,ata,27,6.48,2.5,0.4,1.3117974777680226
+7326,Kieza,Botafogo,Welker Marçal de Almeida,ata,27,4.75,19.8,0.9,2.4177866039012104
+7327,Marlone,Sport,Johnath Marlone Azevedo da Silva,mei,27,7.3,8.1,1.6,1.4273570973982812
+7328,Raul Prata,Sport,Raul Prata,lat,27,9.02,1.6,7.1,1.9599798697828767
+7329,Everton Felipe,Sport,Everton Felipe de Oliveira Silva,mei,27,3.38,4.800000000000002,-0.1,1.2163880733381933
+7330,Rodrigo Lindoso,Botafogo,Rodrigo Oliveira Lindoso,mei,27,6.48,33.5,2.4,3.00239621662283
+7331,Desábato,Vasco,Luis Leandro Desábato,mei,27,6.27,2.100000000000001,2.1,1.6503017517432241
+7332,Marcos Vinícius,Botafogo,Marcos Vinícius de Jesus Araújo,mei,27,4.27,6.7,0.2,1.2890720212257532
+7333,Wagner,Vasco,Wagner Ferreira dos Santos,mei,27,13.5,22.0,12.6,2.9225088968328445
+7334,Léo Ortiz,Sport,Leonardo Rech Ortiz,zag,27,3.1,-1.6,-1.5,1.2857717323479834
+7335,Sander,Sport,Sander Henrique Bortolotto,lat,27,6.82,38.7,1.9,4.331783140276592
+7336,Rhayner,Vitória,Rhayner Santos Nascimento,ata,27,7.85,9.7,6.4,1.6994237465003024
+7337,Yago Pikachu,Vasco,Glaybson Yago Souza Lisboa,lat,27,14.33,19.4,12.8,3.7044586976520892
+7338,Andrés Ríos,Vasco,Andrés Lorenzo Ríos,ata,27,3.1,16.5,-2.5,2.862125343896898
+7339,Fábio Carille,Corinthians,Fábio Luiz Carille de Araújo,tec,27,12.53,24.31,4.19,4.082038014481126
+7340,Riascos,Vasco,Duvier Riacos Barahona,ata,27,5.58,-3.6,1.1,1.5771321973490902
+7341,Henrique,Vasco,Henrique Silva Milagres,lat,27,6.75,14.4,2.8,3.384808661197411
+7342,Renê Júnior,Corinthians,Renê dos Santos Júnior,mei,27,6.2,10.4,-1.0,2.3177671183009254
+7343,Ángel Romero,Corinthians,Ángel Rodrigo Romero Villamayor,ata,27,10.2,22.8,5.8,3.4017306958727276
+7344,Clayson,Corinthians,Clayson Henrique da Silva Vieira,ata,27,8.68,1.7,3.6,2.0528075420339844
+7345,Sidcley,Corinthians,Sidcley Ferreira Pereira,lat,27,6.54,14.8,1.5,3.54722697015672
+7346,Zé Ricardo,Vasco,José Ricardo Mannarino,tec,27,10.07,14.58,4.62,3.323152737497387
+7347,Evander,Vasco,Evander da Silva Ferreira,mei,27,7.92,3.3,2.5,1.727017760492347
+7348,Balbuena,Corinthians,Fabián Cornelio Balbuena González,zag,27,17.36,26.4,7.2,3.819182940627675
+7349,Mateus Vital,Corinthians,Mateus da Silva Vital Assumpção,mei,27,3.38,1.9,-0.1,1.7743620563279716
+7350,Maycon,Corinthians,Maycon de Andrade Barberan,mei,27,4.62,11.2,-0.3,2.3689111241336738
+7351,Kanu,Vitória,Antonio Eduardo Pereira dos Santos,zag,27,4.48,12.8,-1.5,2.084910987609782
+7352,Pedro Botelho,Vitória,Pedro Roberto Silva Botelho,lat,27,5.44,16.0,2.9,2.7591191250446756
+7353,Pedrinho,Corinthians,Pedro Victor Delmino da Silva,mei,27,3.72,13.3,-0.6,2.503164139444639
+7354,Vagner Mancini,Vitória,Vagner Carmo Mancini,tec,27,7.07,18.66,2.26,2.856009619426172
+7355,Willian Farias,Vitória,Willian Roberto Farias,mei,27,4.68,15.6,1.8,1.7853793023526237
+7356,Fábio,Cruzeiro,Fábio Deivson Lopes Maciel,gol,27,11.71,39.7,1.0,3.5891136958575505
+7357,Henrique,Cruzeiro,Henrique Pacheco de Lima,mei,27,11.57,4.3,6.8,0.7068712138490203
+7358,Alex Baumjohann,Vitória,Alexander Baumjohann,mei,27,2.96,-0.3,0.3,0.7688921864267457
+7359,Rafael Sobis,Cruzeiro,Rafael Augusto Sobis do Nascimento,ata,27,6.54,23.5,1.5,2.2255588409991853
+7360,Mano Menezes,Cruzeiro,Luis Antônio Venker de Menezes,tec,27,10.67,20.36,2.49,2.608591625704733
+7361,Thiago Neves,Cruzeiro,Thiago Neves Augusto,mei,27,17.71,8.2,1.7,0.9561982422836697
+7362,Guilherme Costa,Vitória,Guilherme Costa Machado Silveira,mei,27,2.89,3.1,0.2,0.9862542112159272
+7363,Yago,Vitória,Yago Felipe da Costa Rocha,mei,27,10.68,12.2,7.5,1.5680172775634422
+7364,Robinho,Cruzeiro,Róbson Michael Signorini,mei,27,7.51,0.4000000000000004,-1.1,0.45754418541437114
+7365,Uillian Correia,Vitória,Uillian Correia Granemann,mei,27,5.17,6.299999999999999,0.5,1.1908302345469215
+7366,Edílson,Cruzeiro,Edílson Mendes Guimarães,lat,27,9.23,21.1,0.4,2.729063156112418
+7367,Rafael Marques,Cruzeiro,Rafael Marques Mariano,ata,27,2.41,5.2,-0.5,1.055639707575062
+7368,Egídio,Cruzeiro,Egídio de Araújo Pereira Júnior,lat,27,7.85,22.6,0.4,2.8249581670488215
+7369,Denilson,Vitória,Denilson Pereira Junior,ata,27,11.09,7.1,9.1,1.5332057275438697
+7370,Léo,Cruzeiro,Leonardo Renan Simões de Lacerda,zag,27,6.54,9.3,2.5,1.5050569559754776
+7371,Ramon,Vitória,Ramon Menezes Roma,zag,27,3.58,15.8,-0.8,2.2767010094825895
+7372,Rodrigo Andrade,Vitória,José Rodrigo Andrade Ramos,mei,27,0.69,4.3,-2.7,1.0629702199650501
+7373,Dedé,Cruzeiro,Anderson Vital da Silva,zag,27,5.99,21.3,2.7,2.272217043466706
+7374,Mancuello,Cruzeiro,Federico Mancuello,mei,27,4.96,12.0,2.2,1.1991322699892253
+7375,Sassá,Cruzeiro,Luiz Ricardo Alves,ata,27,4.13,16.8,-2.0,1.7972277921499162
+7376,Diego Alves,Flamengo,Diego Alves Carreira,gol,27,9.71,19.1,1.1,3.0567558797444256
+7377,Ariel Cabral,Cruzeiro,Alejandro Ariel Cabral,mei,27,6.13,13.4,1.9,1.2886342801965354
+7378,Éverton Ribeiro,Flamengo,Éverton Augusto de Barros Ribeiro,mei,27,2.89,16.9,-5.8,2.296989639794961
+7379,Réver,Flamengo,Réver Humberto Alves Araújo,zag,27,16.6,20.3,10.1,2.9928873702559207
+7380,Renê,Flamengo,Renê Rodrigues Martins,lat,27,5.03,38.6,2.3,4.632438617783944
+7381,Arrascaeta,Cruzeiro,Giorgian Daniel de Arrascaeta Benedetti,mei,27,17.15,21.7,9.9,1.8192533407113016
+7382,Caíque,Vitória,Caíque Luiz Santos da Purificação,gol,27,2.76,8.099999999999998,-1.0,1.9250244715800118
+7383,Geuvânio,Flamengo,Geuvânio Santos Silva,ata,27,6.54,5.3,5.5,1.8466330423843063
+7384,Cuéllar,Flamengo,Gustavo Leonardo Cuellar Gallego,mei,27,9.09,12.599999999999998,5.2,2.0220906084439374
+7385,Rodinei,Flamengo,Rodinei Marcelo de Almeida,lat,27,6.96,23.7,3.1,3.679881509149001
+7386,Ernando,Sport,Ernando Rodrigues Lopes,zag,27,5.86,18.6,0.5,2.5771578796248846
+7387,Maurício Barbieri,Flamengo,Maurício Nogueira Barbieri,tec,27,9.5,19.98,3.79,3.368898557014328
+7388,Hygor,Sport,Hygor Cleber Garcia Silva,ata,27,1.03,3.3,-0.5,1.4117245495659891
+7389,Juan,Flamengo,Juan Silveira dos Santos,zag,27,8.61,6.199999999999998,0.5,2.0914742674537274
+7390,Lucas Paquetá,Flamengo,Lucas Tolentino Coelho de Lima,mei,27,17.98,39.6,12.1,3.7482008052992013
+7391,Ferreira,Sport,Matheus Ferreira de Sousa,mei,27,4.75,3.2,3.9,1.1141000616726962
+7392,Jeferson,Vitória,Jeferson de Araújo de Carvalho,lat,27,4.96,21.0,2.2,3.078769161499354
+7393,Silvinho,Paraná,Silvio José Cardoso Reis Junior,ata,27,3.86,16.199999999999996,1.6,3.418834523869541
+7394,Jesiel,Paraná,Jesiel Cardoso Miranda,zag,27,3.1,6.4,1.5,2.97962467092595
+7395,Vinicius Junior,Flamengo,Vinicius José Paixão de Oliveira Junior,ata,27,11.3,26.4,6.4,3.195556196223049
+7396,Bressan,Grêmio,Matheus Simonete Bressanelli,zag,27,7.23,21.0,6.5,2.5974006695258276
+7397,Ramiro,Grêmio,Ramiro Moschen Benetti,mei,27,8.2,6.1,2.9,1.1663078552191068
+7398,Everton,Grêmio,Everton Sousa Soares,ata,27,11.71,31.700000000000006,10.0,3.094147529031261
+7399,Kannemann,Grêmio,Walter Kannemann,zag,27,10.95,39.3,1.9,3.7673198029499506
+7400,Jailson,Grêmio,Jaílson Marques Siqueira,mei,27,5.51,18.4,2.0,1.9526469448976158
+7401,Arthur,Grêmio,Arthur Henrique Ramos de Oliveira Melo,mei,27,16.33,33.5,11.7,2.917990054990745
+7402,Júlio César,Fluminense,Júlio César Jacobi,gol,27,2.55,25.9,-4.3,4.650107741787848
+7403,Willian Arão,Flamengo,Willian Souza Arão da Silva,mei,27,4.75,17.4,-0.1,2.3289546434404285
+7404,Abel Braga,Fluminense,Abel Carlos da Silva Braga,tec,27,10.06,19.07,3.61,4.4693500628446365
+7405,Caio Henrique,Paraná,Caio Henrique Oliveira Silva,mei,27,2.48,6.4,-0.4,2.501088965254172
+7406,Henrique Dourado,Flamengo,José Henrique da Silva Dourado,ata,27,15.5,4.5,0.5,1.7954890365515577
+7407,Renato Chaves,Fluminense,Renato de Araújo Chaves Júnior,zag,27,4.75,29.8,-0.1,4.75885025198487
+7408,Gum,Fluminense,Welington Pereira Rodrigues,zag,27,2.89,13.6,-0.8,3.723184133871711
+7409,Léo Itaperuna,Paraná,Leonardo de Oliveira Clemente,ata,27,3.44,9.9,2.0,3.016075477936646
+7410,Jadson,Fluminense,Jadson Alves dos Santos,mei,27,8.89,4.5,6.9,2.6628853618524175
+7411,João Carlos,Fluminense,João Carlos Cardoso Santo,ata,27,1.03,0.9000000000000001,-0.5,2.7239688227692485
+7412,Pablo Dyego,Fluminense,Pablo Dyego da Silva Rosa,ata,27,3.65,12.1,3.3,3.4399849044277286
+7413,Sornoza,Fluminense,Júnior Nazareno Sornoza Moreira,mei,27,8.4,7.9,7.2,2.880247386641599
+7414,Richard,Fluminense,Richard Cândido Coelho,mei,27,14.61,20.3,16.2,3.6729794770492017
+7415,Gilberto ,Fluminense,Gilberto Moraes Júnior,lat,27,5.03,24.500000000000004,-0.7,4.88965332744681
+7416,Pedro,Fluminense,Pedro Guilherme Abreu dos Santos,ata,27,8.27,27.4,6.0,4.418114015979045
+7417,Ayrton Lucas,Fluminense,Ayrton Lucas Dantas de Medeiros,lat,27,7.78,16.3,4.3,4.365427267661136
+7418,Ibañez,Fluminense,Roger Ibañez da Silva,zag,27,5.99,12.2,2.7,3.633682123664401
+7419,Frazan,Fluminense,Wesley Frazan Bernardo,zag,27,1.72,8.5,-0.5,3.397141096687939
+7420,Cícero,Grêmio,Cícero Santos,mei,27,7.1,20.3,2.3,2.074113958750394
+7421,Marcelo Grohe,Grêmio,Marcelo Grohe,gol,27,19.29,14.4,11.0,2.3160471396432794
+7422,Léo Moura,Grêmio,Leonardo da Silva Moura,lat,27,9.78,25.3,9.2,3.34193181498075
+7423,Paulo Miranda,Grêmio,Jonathan Doin,zag,27,6.96,34.099999999999994,5.1,3.434883765037085
+7424,Renato Gaúcho,Grêmio,Renato Portaluppi,tec,27,15.36,29.23,7.29,3.520013418621735
+7425,Odair Hellmann,Internacional,Odair Hellmann,tec,27,8.92,21.02,7.95,5.172133243292745
+7426,Nico López,Internacional,Nicolás Federico López Alonso,ata,27,17.77,18.8,18.8,4.446435619507781
+7427,Gabriel Dias,Internacional,Gabriel Dias de Oliveira,mei,27,4.48,9.9,0.5,3.586227067454254
+7428,Patrick,Internacional,Patrick Bezerra do Nascimento,mei,27,13.57,16.400000000000002,10.7,4.001772114845336
+7429,Rossi,Internacional,Rosicley Pereira da Silva,ata,27,3.79,8.4,0.5,3.78156354368205
+7430,André,Grêmio,André Felipe Ribeiro de Souza,ata,27,12.47,10.499999999999998,6.1,1.7388313744634236
+7431,Guerra,Palmeiras,Alejandro Abraham Guerra Morales,mei,27,10.06,16.099999999999998,7.6,3.3032284130148617
+7432,Iago,Internacional,Iago Amaral Borduchi,lat,27,9.85,13.8,8.3,4.7837219156645805
+7433,Brenner,Internacional,Brenner Alves Sabino,ata,27,0.69,-1.5,-0.3,3.1486564715017864
+7434,Felipe Melo,Palmeiras,Felipe Melo de Carvalho,mei,27,5.58,20.3,1.1,3.571734443636792
+7435,Willian,Palmeiras,Willian Gomes de Siqueira,ata,27,8.82,19.8,2.8,3.831000927155524
+7436,Marcos Rocha,Palmeiras,Marcos Luis Rocha Aquino,lat,27,7.92,37.4,-3.5,5.613105388087471
+7437,Dudu,Palmeiras,Eduardo Pereira Rodrigues,ata,27,18.53,35.8,1.9,4.853881043810494
+7438,Marcelo Lomba,Internacional,Marcelo Lomba do Nascimento,gol,27,7.72,27.0,5.2,5.298550416038661
+7439,Edenílson,Internacional,Edenílson Andrade Dos Santos,mei,27,10.75,22.4,8.6,4.38535215859095
+7440,Diogo Barbosa,Palmeiras,Diogo Barbosa Mendanha,lat,27,8.96,18.4,-2.0,4.398435249559692
+7441,Bruno Henrique,Palmeiras,Bruno Henrique Corsini,mei,27,7.51,3.8,1.9,2.5168893233363527
+7442,D'Alessandro,Internacional,Andrés Nicolas D'Alessandro,mei,27,10.47,2.9,2.2,3.138717016417704
+7443,Rodrigo Moledo,Internacional,Rodrigo Modesto da Silva Moledo,zag,27,9.16,33.6,8.3,5.579903945921209
+7444,Deyverson,Palmeiras,Deyverson Brum Silva Acosta,ata,27,4.75,23.6,0.9,4.0739349548610795
+7445,Moisés,Palmeiras,Moisés Lima Magalhães,mei,27,7.37,24.1,-0.3,3.814668471342348
+7446,Jailson,Palmeiras,Jailson Marcelino dos Santos,gol,27,11.78,17.5,3.1,4.011850647131578
+7447,Carlos Eduardo,Paraná,Carlos Eduardo Marques,mei,27,5.1,-0.4000000000000001,2.4,2.066364915675809
+7448,Thiago Santos,Paraná,Thiago dos Santos,ata,27,1.38,15.599999999999998,-1.0,3.3804765194949797
+7449,Rayan,Paraná,Rayan Poltronieri Pereira,zag,27,2.96,-3.9,0.3,2.3211455958293126
+7450,Richard,Paraná,Richard de Oliveira da Costa,gol,27,6.54,12.2,4.5,3.4910032314510047
+7451,Rogério Micale,Paraná,Mário Rogério Reis Micale ,tec,27,3.78,11.599999999999998,1.49,3.7085294979303227
+7452,Mansur,Paraná,Joeliton Lima Santos,lat,27,3.72,-3.3999999999999995,0.4,2.8227427135786796
+7453,Leandro Vilela,Paraná,Leandro Vilela Sales Teixeira,mei,27,4.48,10.3,2.5,2.7504159936888213
+7454,Thiago Martins,Palmeiras,Thiago Martins Bueno,zag,27,4.75,19.200000000000006,-1.1,3.9799471412885414
+7455,Diego,Paraná,Diego Gonçalves,ata,27,4.48,1.5,1.5,2.4790634166927865
+7456,Alemão,Paraná,Jucimar José Teixeira,lat,27,4.89,27.600000000000005,1.1,4.804572939597687
+7457,Bruno Cortez,Grêmio,Bruno Cortês Barbosa,lat,27,13.09,16.700000000000006,10.0,2.792133752278704
+7458,Eduardo Sasha,Santos,Eduardo Colcenti Antunes,ata,27,9.37,9.3,3.6,3.105054930677869
+7459,Báez,Paraná,Marcelo David Báez Casco,lat,27,2.41,2.3,-0.5,3.187143755137013
+7460,Michel,Grêmio,Michel Ferreira dos Santos,mei,27,5.17,3.8,1.5,1.0192688384499549
+7461,Nenê,São Paulo,Anderson Luiz de Carvalho,mei,27,7.85,22.2,0.4,2.7686407669156377
+7462,Hudson,São Paulo,Hudson Rodrigues dos Santos,mei,27,8.82,19.7,4.8,2.6088157486882984
+7463,Ernandes,Ceará,Ernandes Dias Luz,lat,27,2.41,0.5,0.5,3.5367785152867053
+7464,Felipe Azevedo,Ceará,Felipe Azevedo dos Santos,ata,27,5.72,10.0,-0.7,3.487177251939116
+7465,Reina,Ceará,Javier Arley Reina Calvo,mei,27,3.38,-5.499999999999999,1.9,2.205030651765413
+7466,Wesley Dias,Paraná,Wesley Dias Claudino,mei,27,2.41,1.7000000000000002,0.5,2.200617930986774
+7467,Igor Rabello,Botafogo,Igor Rabello da Costa,zag,27,13.92,19.2,9.2,2.566732818034228
+7468,Léo Cittadini,Santos,Leonardo Cittadini,mei,27,7.92,5.2,6.5,2.551710413620833
+7469,Wescley,Ceará,Wescley Gomes dos Santos,mei,27,4.06,15.9,0.9,3.5731328077914375
+7470,Alison,Santos,Alison Lopes Ferreira,mei,27,7.78,13.3,3.3,3.0695434726774127
+7471,Éverson,Ceará,Éverson Felipe Marques Pires,gol,27,6.2,48.7,2.0,6.289157270843535
+7472,Leonardo Valencia,Botafogo,Leonardo Felipe Valencia Rossel,mei,27,6.61,13.1,3.6,1.6982240678877414
+7473,Joel Carli,Botafogo,Mauro Joel Carli,zag,27,6.61,15.599999999999998,1.6,2.3365847917868594
+7474,Jean Mota,Santos,Jean Mota Oliveira de Sousa,mei,27,8.61,8.5,5.5,2.762679437680921
+7475,Claudio Winck,Sport,Claudio Winck Neto,lat,27,2.2,2.1,-1.8,1.9919448734283447
+7476,Juninho,Ceará,Paulo Roberto Valoura Júnior,mei,27,4.06,21.0,-0.1,3.8991758449752094
+7477,Víctor Cuesta,Internacional,Víctor Leandro Cuesta,zag,27,13.85,23.700000000000006,13.1,4.946996873740946
+7478,Roger Machado ,Palmeiras,Roger Machado Marques,tec,27,9.96,21.18,1.45,4.502997344816101
+7479,Antônio Carlos ,Palmeiras,Antônio Carlos Cunha Capocasali Júnior,zag,27,7.37,19.5,1.7,3.9991261434758223
+7480,William Pottker,Internacional,William de Oliveira Pottker,ata,27,3.44,15.7,-3.0,4.24825259690588
+7481,Rodrigo Dourado,Internacional,Rodrigo Dourado Cunha,mei,27,11.09,31.4,8.1,4.960722224209372
+7482,Keno,Palmeiras,Marcos da Silva França,ata,27,8.06,12.2,1.7,3.345132871744412
+7483,Fabiano,Internacional,Fabiano Leissmann,lat,27,7.85,19.4,6.4,5.141729956493821
+7484,Lucas Lima,Palmeiras,Lucas Rafael Araujo Lima,mei,27,9.09,9.3,0.2,2.8685043634364993
+7485,Éder Militão,São Paulo,Éder Gabriel Militão,lat,27,9.78,34.90000000000001,6.2,4.5287196792861995
+7486,Rodrigo Caio,São Paulo,Rodrigo Caio Roquette Russo,zag,27,11.09,15.9,4.1,2.8444174266545215
+7487,Brenner,São Paulo,Brenner Souza da Silva,ata,27,2.76,2.9,-1.0,1.8260231133647782
+7488,Luiz Otávio,Ceará,Luiz Otávio Anacleto Leandro,zag,27,5.99,35.2,2.7,5.285517654178276
+7489,Gabriel,Santos,Gabriel Barbosa Almeida,ata,27,15.02,50.2,5.8,5.7197922288771395
+7490,Marcinho,Botafogo,Márcio Almeida de Oliveira,lat,27,4.89,17.4,1.1,2.9212909190144427
+7491,Cueva,São Paulo,Christian Alberto Cueva Bravo,mei,27,13.57,14.8,5.7,2.2955587129627135
+7492,Marcos Guilherme ,São Paulo,Marcos Guilherme de Almeida Santos Matos,ata,27,11.99,16.7,5.4,2.708257213979691
+7493,David Braz,Santos,David Braz de Oliveira Filho,zag,27,12.75,14.8,6.5,3.6439741892855944
+7494,Brenner,Botafogo,Brenner Marlos Varanda de Oliveira,ata,27,4.13,10.8,1.0,1.842416538282789
+7495,Valdívia,São Paulo,Wanderson Ferreira de Oliveira,mei,27,8.96,7.0,3.0,1.7969046560934152
+7496,Pio,Ceará,Francisco Hércules de Araújo,mei,27,4.2,5.600000000000001,0.1,2.9146537326947994
+7497,Júnior Tavares,São Paulo,Carlos Eugenio Júnior Tavares dos Santos,lat,27,7.58,5.0,5.0,2.617212461287221
+7498,Marcelo Chamusca,Ceará,Marcelo Augusto Oliveira Chamusca,tec,27,2.2,16.110000000000007,1.19,4.461562604085819
+7499,Jucilei,São Paulo,Jucilei da Silva,mei,27,7.3,27.0,0.6,3.075504801912129
+7500,Vitor Bueno,Santos,Vitor Frezarin Bueno,mei,27,7.37,2.0,-0.3,2.3471343902898387
+7501,Alberto Valentim,Botafogo,Alberto Valentim do Carmo Neto,tec,27,7.7,10.37,4.18,2.398699642746772
+7502,Dodô,Santos,José Rodolfo Pires Ribeiro,lat,27,12.75,36.2,8.5,5.481708459415518
+7503,Vanderlei,Santos,Vanderlei Farias da Silva,gol,27,21.36,24.3,8.0,4.391893776787111
+7504,Roberto,Ceará,Roberto César Zardin Rodrigues,ata,27,4.96,1.6,1.2,2.950165190695256
+7505,Régis,São Paulo,Régis Ribeiro de Souza,lat,27,5.79,9.0,4.4,2.8729324904509643
+7506,Lucas Fernandes,São Paulo,Lucas Fernandes da Silva,mei,27,5.24,2.5000000000000004,3.6,1.5092196232842046
+7507,Matheus Fernandes,Botafogo,Matheus Fernandes Siqueira,mei,27,9.92,10.5,8.4,1.5320060489313088
+7508,Sidão,São Paulo,Sidney Aparecido Ramos da Silva,gol,27,10.82,11.8,5.7,2.7228889149993125
+7509,Daniel Guedes ,Santos,Daniel Guedes da Silva,lat,27,9.09,12.4,6.2,3.960174285891248
+7510,Gustavo Bochecha,Botafogo,Gustavo Costa da Silva Machado,mei,27,4.06,21.4,4.9,2.2288431284025076
+7511,Jair Ventura,Santos,Jair Ventura,tec,27,12.02,13.659999999999998,6.45,3.967562770065434
+7512,Rafael Carioca,Ceará,Rafael Bruno Cajueiro da Silva,lat,27,1.38,13.6,-2.0,4.374261610797963
+7513,Lucas Veríssimo,Santos,Lucas Veríssimo da Silva,zag,27,9.3,2.6999999999999997,8.5,2.8704211010652725
+7514,Valdo,Ceará,Andrevaldo de Jesus Santos,zag,27,5.51,17.4,3.0,4.14756352439962
+7515,Leandro Carvalho,Botafogo,Leandro Carvalho da Silva,ata,27,5.86,20.300000000000004,5.5,2.4497516075466783
+7516,Andrigo,Sport,Andrigo Oliveira de Araujo,mei,27,6.61,12.6,1.6,1.7150421302074919
+7517,Márcio Araújo,Chapecoense,Márcio Rodrigues Araújo,mei,27,2.89,12.4,-1.8,1.885509122202331
+7518,Rodrygo,Santos,Rodrygo Silva de Goes,ata,27,11.57,16.5,8.8,3.5653509831726065
+7519,Amaral,Chapecoense,William José de Souza,mei,27,5.1,3.2,1.4,1.2973530551257224
+7520,Arthur,Ceará,Arthur Mendonça Cabral,ata,27,5.92,16.4,3.6,3.8963292986011044
+7521,Eduardo,Chapecoense,Carlos Eduardo Santos Oliveira,lat,27,4.82,20.7,2.0,3.3642960024927753
+7522,Apodi,Chapecoense,Luiz Diallison de Souza Alves,lat,27,5.86,25.0,1.5,3.639195033843799
+7523,Douglas,Chapecoense,Douglas Silva Bacelar,zag,27,4.82,-1.1,2.0,1.5009897294464776
+7524,Rafael Thyere,Chapecoense,Rafael Thyere Albuquerque Marques,zag,27,2.2,8.0,-1.8,2.0827527957939926
+7525,Vinicius,Chapecoense,Vinicius Santos Silva,ata,27,4.27,4.0,2.2,1.6397285481226707
+7526,Jandrei,Chapecoense,Jandrei Chitolina Carniel,gol,27,3.79,2.200000000000001,-3.5,1.852543271744193
+7527,Canteros,Chapecoense,Héctor Canteros,mei,27,8.06,-0.5000000000000001,4.7,1.0608120281492606
+7528,Bruno Pacheco,Chapecoense,Bruno de Jesus Pacheco,lat,27,4.27,3.8,1.2,2.283878879275962
+7529,Guilherme,Chapecoense,Guilherme Augusto Vieira dos Santos,ata,27,5.65,7.4,0.2,1.857090572911852
+7530,Gilson Kleina,Chapecoense,Gilson Kleina,tec,27,5.22,14.86,1.58,2.9177814349013182
+7531,Bruno Alves,São Paulo,Bruno Fabiano Alves,zag,27,11.16,22.2,12.2,3.2471764725874164
+7532,Wellington Paulista,Chapecoense,Wellington Pereira do Nascimento,ata,27,11.23,5.499999999999999,7.3,1.735623559059074
+7533,Diego Aguirre,São Paulo,Diego Vicente Aguirre Camblor,tec,27,9.28,17.83,5.46,3.364271129817534
+7534,Nadson,Chapecoense,Nadson da Silva Almeida,mei,27,2.89,20.3,0.2,2.390556179800723
+7535,Arthur ,Chapecoense,Arthur Caíke do Nascimento Cruz,ata,27,6.75,29.6,1.8,3.276336734770625
+7536,Adilson,Atlético-MG,Adilson Warken,mei,27,5.19,12.5,2.3,3.895155661856304
+7537,Marquinhos,América-MG,Marcos Antônio da Silva Gonçalves,ata,27,5.26,2.4,0.8,2.5904147058806277
+7538,Erik,Atlético-MG,Erik Nascimento Lima,ata,27,2.5,30.5,-1.05,5.337127280257346
+7539,Carlos,Paraná,Carlos Alberto Carvalho da Silva Júnior,ata,27,4.5,10.0,4.0,3.02246847866574
+7540,Lucho González,Atlético-PR,Luis Oscar González,mei,27,5.75,13.8,0.3,1.8875500593185728
+7541,Capixaba,América-MG,João Victor da Vitória Fernandes,ata,27,2.6,0.6999999999999997,-0.5,2.4817336934860372
+7542,Lucas Fonseca,Bahia,Lucas Fonseca da Silva,zag,27,7.25,6.500000000000001,5.5,3.3995905408470275
+7543,Arnaldo,Ceará,Arnaldo Manoel de Almeida,lat,27,6.58,26.6,4.35,5.205351705580128
+7544,Elton,Ceará,Elton Rodrigues Brandão,ata,27,4.8,21.0,-0.3,4.190407332139409
+7545,Pachu,Botafogo,Luiz Henrique Pachu Lira,ata,27,2.55,2.7,2.7,1.3245834792262097
+7546,Ezequiel,Botafogo,Ezequiel Santos da Silva,ata,27,4.45,8.7,2.2,1.708163522971824
+7547,Naldo,Ceará,Marinaldo dos Santos Oliveira,mei,27,3.45,5.4,1.5,2.9018677312366123
+7548,Vinícius Freitas,Chapecoense,Vinícius Freitas Ribeiro,lat,27,4.26,12.3,5.1,2.8272839412489152
+7549,Elicarlos,Chapecoense,Elicarlos Souza Santos,mei,27,3.31,19.2,-0.5,2.3202331717806937
+7550,Luiz Antonio ,Chapecoense,Luiz Antonio de Souza Soares,mei,27,6.4,7.1,3.5,1.5466800835603718
+7551,Jadson,Corinthians,Jadson Rodrigues da Silva,mei,27,8.4,23.6,-0.1,3.1616432145412765
+7552,Gabriel,Corinthians,Gabriel Girotto Franco,mei,27,12.17,11.7,10.5,2.4008761277791417
+7553,Marcelo Hermes,Cruzeiro,Marcelo Hermes,lat,27,3.94,12.200000000000005,1.0,2.1600860912230906
+7554,Rafinha,Cruzeiro,Rafael da Silva Francisco,mei,27,7.49,14.3,-0.6,1.3461712867583775
+7555,Lucas Silva,Cruzeiro,Lucas Silva Borges,mei,27,4.15,13.9,1.5,1.320599283842003
+7556,David,Cruzeiro,David Correa da Fonseca,ata,27,4.84,10.4,-0.2,1.3880757454879278
+7557,Lucas Romero,Cruzeiro,Lucas Daniel Romero,mei,27,4.71,30.5,-0.5,2.3818374048715354
+7558,Everton,São Paulo,Everton Cardoso da Silva,mei,27,8.27,7.5,-0.4,1.828869659738883
+7559,Jonas,Flamengo,Jonas Gomes de Sousa,mei,27,5.43,31.8,1.2,3.249546748429903
+7560,Marlos,Flamengo,Marlos Moreno Durán,ata,27,4.85,15.3,1.5,2.4859331152936632
+7561,Léo Duarte,Flamengo,Leonardo Campos Duarte da Silva,zag,27,5.92,10.6,5.7,2.3727662995338448
+7562,Jean Lucas,Flamengo,Jean Lucas de Souza Oliveira,mei,27,1.2,-4.6,-0.5,0.9224944830398432
+7563,Marcos Junior,Fluminense,Marcos Junio Lima dos Santos,ata,27,3.98,0.7,0.7,2.711182821311062
+7564,Guilherme,Atlético-PR,Guilherme Milhomem Gusmão,mei,27,9.44,4.7,5.7,1.305786992971058
+7565,Thiago Heleno,Atlético-PR,Thiago Heleno Henrique Ferreira,zag,27,10.99,7.500000000000003,7.7,1.9633267190574566
+7566,Paulo André,Atlético-PR,Paulo André Cren Benini,zag,27,6.99,10.7,4.9,2.167902742388451
+7567,Rogério,Sport,José Rogério de Oliveira,ata,27,6.36,22.0,3.4,2.6072156859064872
+7568,Ronaldo Alves,Sport,Ronaldo Luiz Alves,zag,27,5.35,10.9,1.0,2.0848968234846796
+7569,Leandro Pereira,Chapecoense,Leandro Marcos Pereira,ata,27,4.85,49.1,1.5,4.5229718769438705
+7570,Maílson,Sport,Maílson Tenório dos Santos,gol,27,1.84,22.4,2.7,2.9606764255680678
+7571,Neto Moura,Sport,Antônio Francisco Moura Neto,mei,27,3.49,14.2,1.6,1.817330141872989
+7572,Rafael Galhardo,Vasco,Rafael Galhardo de Souza,lat,27,3.28,1.8000000000000005,0.85,2.5792905693316213
+7573,Rildo,Vasco,Rildo de Andrade Felicissimo,ata,27,2.99,0.2,0.1,1.8200662250546458
+7574,Neilton,Vitória,Neilton Meira Mestzk,ata,27,8.67,3.5000000000000004,2.2,1.3030577012965012
+7575,José Welison,Vitória,José Welison da Silva,mei,27,3.81,24.5,0.7,2.3543563672419516
+7576,Tiago Alves,Ceará,Tiago dos Santos Alves,zag,27,5.7,12.3,8.5,3.8215204872158473
+7577,Matheus Galdezani,Atlético-MG,Matheus Galdezani,mei,27,4.85,3.6000000000000005,1.5,3.326178596966976
+7578,Luan Peres ,Fluminense,Luan Peres Petroni,zag,27,6.33,15.4,5.0,3.838258146995395
+7579,Leandro Damião,Internacional,Leandro Damião da Silva dos Santos,ata,27,8.43,18.700000000000006,3.3,4.440042618778688
+7580,Camilo,Internacional,Fernando Camilo Farias,mei,27,4.01,17.2,-0.5,4.052916120678084
+7581,Danilo Fernandes,Internacional,Danilo Fernandes Batista,gol,27,6.19,18.9,-2.0,4.780717356982081
+7582,Raphael Alemão,Paraná,Raphael Schorr Utzig,ata,27,4.19,8.899999999999997,6.6,2.95214547064571
+7583,Luis Carlos,Paraná,Luis Carlos Dallastella,gol,27,0.7,-4.0,-4.0,2.4553371133378463
+7584,Klaus,Internacional,Willian Klaus,zag,27,3.11,4.2,0.7,3.700361731567699
+7585,Matheus Pereira,Paraná,Matheus Pereira da Silva,mei,27,4.66,4.1,2.7,2.3540499484850193
+7586,Vitor Feijão,Paraná,Vitor Correia da Silva,ata,27,3.74,1.7,2.2,2.4918494181509736
+7587,Edu Dracena,Palmeiras,Eduardo Luís Abonizio de Souza,zag,27,7.46,3.1,6.0,2.950674023904477
+7588,Leandro Donizete,América-MG,Leandro Donizete Gonçalves da Silva,mei,27,3.46,12.0,3.2,2.912911288709411
+7589,Liziero,São Paulo,Igor Matheus Liziero Pereira ,lat,27,5.57,19.4,8.2,3.5378045662766953
+7590,Bruno Henrique,Santos,Bruno Henrique Pinto,ata,27,12.75,4.0,0.2,2.76622589203591
+7591,Borja,Palmeiras,Miguel Angel Borja Hernandez,ata,27,13.68,12.8,7.4,3.383490876118974
+7592,Arthur Gomes,Santos,Arthur Gomes Lourenço,ata,27,2.63,3.9,0.25,2.759832891306816
+7593,Diego Pituca,Santos,Diego Cristiano Evaristo,mei,27,0.7,9.6,0.25,2.8330024457009504
+7594,Edimar,São Paulo,Edimar Curitiba Fraga,lat,27,3.59,26.8,3.5,4.01088662022962
+7595,Petros,São Paulo,Petros Mateus dos Santos Araújo,mei,27,10.2,18.1,7.5,2.5065277370228016
+7596,Arboleda,São Paulo,Robert Abel Arboleda Escobar,zag,27,12.17,13.8,10.5,2.7101644113435563
+7597,Maicon,Grêmio,Maicon Thiago Pereira de Souza,mei,27,5.75,20.2,1.65,2.0677209580213005
+7598,Jael,Grêmio,Jael Ferreira Vieira,ata,27,3.39,33.6,-0.3,3.2156145428840386
+7599,Alisson,Grêmio,Alisson Euler de Freitas Castro,mei,27,7.7,24.4,4.9,2.3362269886432303
+7600,Pedro Geromel,Grêmio,Pedro Tonon Geromel,zag,27,16.9,28.1,6.7,3.051303721291471
+7601,Luan,Grêmio,Luan Guilherme de Jesus Vieira,ata,27,18.32,33.2,8.4,3.1900425399676644
+7602,Maicosuel,Grêmio,Maicosuel Reginaldo de Matos,mei,27,3.47,4.5,0.7,1.0640198435536097
+7603,Jefferson,Botafogo,Jefferson de Oliveira Galvão,gol,27,7.72,13.1,-2.3,2.3173442917971476
+7604,Marcelo Oliveira,Grêmio,Marcelo Oliveira Ferreira,lat,27,2.66,20.1,-0.5,3.009495777067885
+7605,Lucca,Internacional,Lucca Borges Brito,ata,27,7.37,17.2,5.2,4.3441476078422845
+7606,Wallyson,Vitória,Wallyson Ricardo Maciel Monteiro,ata,27,9.2,9.3,11.7,1.6738517435839282
+7607,Bruno Silva,Cruzeiro,Bruno César Pereira da Silva,mei,27,7.6,9.9,5.9,1.0648792546782602
+7608,Paulo Victor,Grêmio,Paulo Victor Mileo Vidotti,gol,27,6.92,18.9,1.7,2.60373217245249
+7609,Diego Souza,São Paulo,Diego Souza de Andrade,mei,27,9.72,16.3,1.6,2.3914537238991174
+7610,Rafael,Cruzeiro,Rafael Pires Monteiro,gol,27,7.71,34.0,10.5,3.224712654299217
+7611,Élber,Bahia,José Élber Pimentel da Silva,mei,27,4.0,15.4,1.4,3.4900319000645768
+7612,Madson,Grêmio,Madson Ferreira dos Santos,lat,27,5.44,19.5,1.5,2.9711377726933232
+7613,Thiago Santos,Palmeiras,Thiago dos Santos,mei,27,6.07,28.7,3.4,4.108746504880652
+7614,Ezequiel ,Cruzeiro,Ezequiel Jacinto de Biasi,lat,27,5.3,16.1,7.5,2.4094131196577395
+7615,Renatinho,Botafogo,Renato Vieira Rodrigues,mei,27,4.31,10.0,4.5,1.5000410452858408
+7616,Marquinhos Gabriel,Corinthians,Marcos Gabriel do Nascimento,mei,27,3.51,10.9,-0.15,2.349732121946393
+7617,Manoel,Cruzeiro,Manoel Messias Silva Carvalho,zag,27,6.06,22.5,5.5,2.3489330522158287
+7618,Léo,Fluminense,Leonardo Moreira Morais,lat,27,4.48,21.2,5.0,4.6786843033867225
+7619,Romário ,Ceará,Romário Guilherme dos Santos,lat,27,2.7,13.500000000000002,-0.4,4.36786861006887
+7620,Raniel,Cruzeiro,Raniel Santana de Vasconcelos,ata,27,4.85,25.700000000000006,-0.3,2.3662048570392447
+7621,Richardson,Ceará,Richardson Fernandes dos Santos,mei,27,5.5,20.4,3.8,3.860817840600648
+7622,David,Paraná,David Rambo Becker,gol,27,0.71,-3.3,-4.0,2.5000881184415014
+7623,Luiz Otávio ,Chapecoense,Luiz Otávio da Silva Santos,zag,27,5.73,4.1,4.5,1.8334257673593433
+7624,Tréllez,São Paulo,Santiago Tréllez Vivero,ata,27,6.31,4.9,1.35,1.9538831279466495
+7625,Carlos Henrique,Sport,Carlos Henrique Alves Pereira,ata,27,2.79,10.1,-0.1,1.846448599144352
+7626,Claudinei Oliveira,Sport,Claudinei dos Santos Oliveira,tec,27,6.5,13.4,5.63,2.641190630803526
+7627,Luan Viana,Paraná,Luan Viana Patrocinio,ata,27,1.51,0.3,0.3,2.4023474079436635
+7628,Cléber Reis,Paraná,Cléber Janderson Pereira Reis,zag,27,5.84,15.6,7.0,3.567780738002559
+7629,Weverton,Palmeiras,Weverton Pereira da Silva,gol,27,8.88,18.8,5.5,4.094959656609795
+7630,Everson,Bahia,Everson Bispo Pereira,zag,27,3.61,8.5,4.5,3.527450555428899
+7631,Lucas Fernandes,Vitória,Lucas Fernandes,ata,27,4.0,19.700000000000006,1.4,2.33872381940966
+7632,Pepê,Grêmio,Eduardo Gabriel Aquino Cossa,ata,27,2.35,16.4,0.7,2.1160184174799443
+7633,Rodrigo Becão,Bahia,Rodrigo Nascimento França ,zag,27,3.61,4.5,4.5,3.2717305262651557
+7634,Mantuan,Corinthians,Guilherme Mantuan,lat,27,2.6,18.5,3.6,3.7837679971331823
+7635,Matheus Alessandro,Fluminense,Matheus Alessandro dos Santos Pereira,ata,27,3.78,13.0,2.9,3.4975219109895708
+7636,Murilo,Cruzeiro,Murilo Cerqueira Paim,zag,27,8.9,5.199999999999998,7.7,1.2429439260826411
+7637,Robinho,Fluminense,Robson Azevedo da Silva,ata,27,5.47,0.09999999999999998,8.0,2.6728248169365
+7638,Jhonny Lucas,Paraná,Jhonny Lucas Flora Barboza ,mei,27,5.98,-2.9,6.3,1.9065398974484697
+7639,Lincoln,Flamengo,Lincoln Corrêa dos Santos,ata,27,2.66,7.600000000000001,-0.5,1.9936720591534585
+7640,Alerrandro,Atlético-MG,Alerrandro Barra Mansa Realino de Souza,ata,27,1.1,1.8,1.2,3.5023360710074916
+7641,Reinaldo,São Paulo,Reinaldo Manoel da Silva,lat,27,10.67,32.9,6.3,4.400859664704328
+7642,Danilo,Corinthians,Danilo Gabriel de Andrade,mei,27,3.53,2.0,2.0,1.7807550570570654
+7643,Roger,Corinthians,Roger Rodrigues da Silva,ata,27,5.64,10.0,1.7,2.5834266025487507
+7644,Anderson Martins,São Paulo,Anderson Vieira Martins,zag,27,7.67,10.8,3.6,2.5183743894707495
+7645,Zezinho,Paraná,José Luis dos Santos Pinto,mei,27,4.47,0.2,0.2,2.1047229200503703
+7646,Bergson,Atlético-PR,Bergson Gustavo Silveira da Silva,ata,27,4.11,8.799999999999997,-1.0,1.8591315100280936
+7647,Leonardo Silva,Atlético-MG,Leonardo Fabiano da Silva e Silva,zag,27,9.37,33.3,1.9,5.7034355191795445
+7648,Paolo Guerrero,Flamengo,José Paolo Guerrero Gonzales,ata,27,12.87,23.4,6.3,3.0037661743502424
+7649,Copete,Santos,Jonathan Copete Valencia,ata,27,6.96,7.8,1.2,3.0091599197414656
+7650,Hyuri,Ceará,Hyuri Henrique de Oliveira Costa,ata,27,2.79,7.599999999999998,-0.5,3.3337452344408702
+7651,Ricardinho,Ceará,Ricardo Dias Acosta,mei,27,4.89,14.2,2.3,3.4644517953968466
+7652,Ruy,América-MG,Ruy Franco de Almeida Junior,mei,27,4.32,1.1,-0.3,2.2160742092382115
+7653,João Ricardo,América-MG,João Ricardo Riedi,gol,27,2.85,1.1999999999999995,-5.3,2.8415874338767115
+7654,Hyoran,Palmeiras,Hyoran Kaue Dalmoro,mei,27,3.85,21.4,5.6,3.642057451656821
+7655,Bruno Cosendey,Vasco,Bruno Cosendey Lobo Pinto,mei,27,6.2,4.7,13.6,1.816519770699657
+7656,Kelvin,Vasco,Kelvin Mateus de Oliveira,ata,27,8.52,1.7999999999999998,14.0,1.922354236720143
+7657,Luan,Vitória,Luan Silva dos Santos,mei,27,1.23,6.3,-0.8,1.1908302345469215
+7658,Nathan,Fluminense,Nathan Otávio Ribeiro,zag,27,3.61,9.9,3.2,3.486643106895249
+7659,Torito González,Paraná,Jorge Daniel González Marquet,mei,27,4.26,8.2,7.0,2.616162978377856
+7660,Pedro Henrique,Corinthians,Pedro Henrique Ribeiro Gonçalves,zag,27,6.41,10.5,6.8,2.8026958247017975
+7661,Júnior Santos,Chapecoense,Natanael de Sousa Santos Júnior,ata,27,0.97,1.3,0.8,1.4671175284371443
+7662,Aderllan,Vitória,Aderllan Leandro de Jesus Santos,zag,27,0.91,12.0,-1.9,2.033766981777034
+7663,Caio Monteiro,Vasco,Caio Monteiro Costa,ata,27,6.94,6.300000000000002,16.1,2.2100392695293536
+7664,Fabrício,Sport,Fabrício Silva Costa,mei,27,2.12,-1.7,-0.3,0.8008430259471111
+7665,Luiz Fernando ,Botafogo,Luiz Fernando Moraes dos Santos,mei,27,3.09,16.099999999999998,-2.0,1.8900140897605482
+7666,Trauco,Flamengo,Miguel <c1>ngel Trauco Saavedra,lat,27,4.41,33.5,5.0,4.306395580600171
+7667,<cd>talo,Bahia,<cd>talo Barbosa de Andrade,ata,27,0.73,-5.8,-4.5,2.4259472326609393
+7668,Marlon,Fluminense,Marlon Rodrigues Xavier,lat,27,4.47,-0.7000000000000002,2.7,3.2786171437152296
+7669,Eder Luis,Ceará,Eder Luis de Oliveira,ata,27,4.17,6.199999999999998,1.6,3.2442432242335606
+7670,Matheus Ferraz,América-MG,Matheus Ferraz Pereira,zag,27,5.4,9.9,4.0,3.2571939790702245
+7671,Lucas,Vitória,Lucas Rios Marques,lat,27,5.5,14.7,1.6,2.6760101155664593
+7672,Breno,Vasco,Breno Vinicius Rodrigues Borges,zag,27,3.73,-0.20000000000000065,-2.4,1.9817984406458504
+7673,Kayke,Bahia,Kayke Moreno de Andrade Rodrigues,ata,27,4.53,1.4000000000000004,0.7,2.8862432851556763
+7674,Renan Oliveira,América-MG,Renan Henrique Oliveira Vieira,mei,27,3.5,-3.8,-0.5,1.902817173512627
+7675,Pará,Flamengo,Marcos Rogério Ricci Lopes,lat,27,3.1,7.8,1.15,2.6633943932231237
+7676,André Lima,Vitória,André Luiz Barretto Silva Lima,ata,27,6.6,0.20000000000000015,8.6,1.0920886772364133
+7677,Vecchio,Santos,Emiliano Gabriel Vecchio,mei,27,5.26,1.1,0.7,2.2895973837279966
+7678,Victor Ferraz,Santos,Victor Ferraz Macedo,lat,27,8.74,31.6,2.9,5.187630425877214
+7679,Giovanni,América-MG,Giovanni Palmieri dos Santos,lat,27,9.81,25.9,20.9,4.749706209829095
+7680,Fillipe Soutto,Vitória,Fillipe Soutto Mayor Nogueira Ferreira,mei,27,3.75,-0.9999999999999998,-2.3,0.7241411813230909
+7681,Mena,Bahia,Eugenio Esteban Mena Reveco,lat,27,7.1,30.2,-0.6,5.384363827746103
+7682,César,Flamengo,César Bernardo Dutra,gol,27,3.35,-2.6,-6.6,1.6694747215311208
+7683,Gustavo Henrique,Santos,Gustavo Henrique Vernes,zag,27,4.02,23.1,1.5,4.1745932498003615
+7684,Nenén,Chapecoense,Odair Souza ,mei,27,2.31,0.2,0.5,1.1055630332529156
+7685,Bruno Silva,Vasco,Bruno da Silva Barbosa,mei,27,1.76,2.1,1.2,1.6503017517432241
+7686,Alex Santana,Paraná,Alex Paulo Menezes Santana,mei,27,3.09,19.2,3.5,3.319393058578149
+7687,Wanderson,Atlético-PR,Wanderson Santos Pereira,zag,27,3.34,11.3,-1.1,2.206260746763012
+7688,Tchê Tchê,Palmeiras,Danilo das Neves Pinheiro,mei,27,5.93,0.5,0.5,2.305920299276265
+7689,Zeca,Internacional,José Carlos Cracco Neto,lat,27,9.81,19.1,8.8,5.12255095430654
+7690,Igor,Paraná,Igor Aquino da Silva,lat,27,2.55,9.8,4.2,3.666618809819031
+7691,Aderlan,América-MG,Aderlan de Lima Silva,lat,27,2.52,19.5,4.1,4.3405541631671065
+7692,João Pedro ,Bahia,João Pedro Maturano dos Santos,lat,27,3.37,19.2,1.8,4.68113374754581
+7693,Juninho Piauiense,Ceará,Edimar Ribeiro da Costa Júnior,ata,27,2.77,-1.8,-0.5,2.7328031659060747
+7694,Júnior,Paraná,Ozealisson Santos Gomes,lat,27,2.31,23.5,0.5,4.54245990970485
+7695,Magrão,Sport,Alessandro Beti Rosa,gol,27,6.91,31.0,-1.3,3.510474488270115
+7696,Shaylon,São Paulo,Shaylon Kallyson Cardoso,mei,27,4.7,4.800000000000002,6.9,1.6562586400533565
+7697,Juan Alano,Internacional,Juan Matheus Alano Nascimento,mei,27,2.1,4.7,2.5,3.253791029541388
+7698,Bruno Silva,Chapecoense,Bruno da Silva Santos,ata,27,1.12,5.700000000000001,1.5,1.7484095605172614
+7699,Thonny Anderson,Grêmio,Thonny Anderson da Silva Carvalho,mei,27,2.61,9.1,-1.1,1.358097877091914
+7700,Michel Bastos,Sport,Michel Fernandes Bastos,mei,27,3.94,7.300000000000002,1.1,1.3762130915655326
+7701,Renato,Santos,Renato Dirnei Florêncio,mei,27,7.02,-0.6999999999999996,1.7,2.1745233706043123
+7702,Anderson,Bahia,Anderson Pedro Nunes da Silva Campos,gol,27,2.86,1.2000000000000002,2.7,3.2013460204426956
+7703,Rhodolfo,Flamengo,Luiz Rhodolfo Dini Gaioto,zag,27,5.87,23.200000000000006,-3.0,3.178284391399635
+7704,Walter,Corinthians,Walter Leandro Capeloza Artune,gol,27,6.12,26.7,4.0,3.9789464610525833
+7705,Rafael Pereira,Ceará,Rafael Pereira dos Santos,zag,27,3.52,16.8,-0.6,4.109205520025058
+7706,Samuel Xavier,Ceará,Samuel Xavier Brito,lat,27,4.28,43.8,2.5,6.30494783098422
+7707,Thiago Rodrigues,Paraná,Thiago Rodrigues de Oliveira Nogueira,gol,27,6.48,11.1,11.5,3.4206802234309754
+7708,Walisson Maia,Vitória,Walisson Moreira Farias Maia,zag,27,5.06,6.5,3.25,1.6821519416768873
+7709,Edson,Bahia,Edson Felipe da Cruz,mei,27,7.14,17.6,8.2,3.630677916104635
+7710,Neris,Paraná,Hueglo Neris dos Santos,zag,27,5.55,13.0,7.7,3.401562719046126
+7711,Moisés,Botafogo,Moisés Roberto Barbosa,lat,27,5.06,12.1,-0.3,2.5824618803724837
+7712,Yuri Alberto,Santos,Yuri Alberto Monteiro da Silva,ata,27,2.08,7.899999999999999,-0.5,3.015552920470559
+7713,Elias,Vitória,Elias Martello Curzel,gol,27,3.18,8.7,1.0,1.9633824759545733
+7714,Vitinho,Cruzeiro,Victor Alexander Da Silva ,lat,27,0.95,0.5,0.5,1.4121050059191425
+7715,Judivan ,América-MG,Judivan Flor da Silva,ata,27,2.16,14.8,0.4,3.3831467962882305
+7716,Douglas,Fluminense,Douglas Augusto Soares Gomes,mei,27,3.04,17.8,0.5,3.5131544588218624
+7717,Juninho Capixaba,Corinthians,Luis Antônio da Rocha Júnior,lat,27,4.94,12.3,-0.8,3.3874019519293808
+7718,Bill,Atlético-PR,Gabriel Pereira Taliari,ata,27,1.56,2.2,0.2,1.4371934619079183
+7719,Júnior Dutra,Corinthians,Sérgio Dutra Júnior,ata,27,4.93,4.6,0.15,2.238204563177698
+7720,Lima,Grêmio,Vinicius Moreira de Lima,mei,27,2.06,7.2,1.2,1.2366308632391363
+7721,Emerson,Atlético-MG,Emerson Aparecido Leite de Souza Junior,lat,27,4.58,18.3,5.6,5.214117523919409
+7722,Renan Lodi,Atlético-PR,Renan Augusto Lodi dos Santos,lat,27,2.47,20.3,1.6,3.2512629264853325
+7723,Paulo Roberto,Corinthians,Paulo Roberto da Silva,mei,27,2.54,13.000000000000002,1.4,2.483985137257358
+7724,Deivid,Sport,Deivid Willian da Silva,mei,27,1.83,5.1000000000000005,-0.4,1.235567075525474
+7725,Guilherme Biteco,Paraná,Guilherme Bitencourt da Silva,mei,27,4.34,5.6000000000000005,-0.6,2.4499449594214235
+7726,Osmar Loss,Corinthians,Osmar Loss,tec,27,11.5,14.76,4.05,3.47150644485269
+7727,Erazo,Vasco,Frickson Rafael  Erazo Vivero,zag,27,4.83,-2.6,-1.7,1.828366423147605
+7728,Douglas Coutinho ,Ceará,Douglas Coutinho Gomes de Souza,ata,27,4.76,0.30000000000000004,1.2,2.86705618121704
+7729,Thaciano,Grêmio,Thaciano Mickael da Silva,mei,27,2.06,11.499999999999998,2.4,1.5115298945901596
+7730,Flávio,Bahia,Flávio Medeiros da Silva,mei,27,2.49,10.8,0.75,3.1959538665262723
+7731,Aguirre,Botafogo,Rodrigo Sebastián Aguirre Soto,ata,27,0.98,11.7,-0.17,1.8999535448446307
+7732,João Pedro,Botafogo, João Pedro Heinen Silva,mei,27,1.66,0.30000000000000004,-0.6,0.8799199745637645
+7733,Araruna,São Paulo,Felipe Araruna Hoffman,mei,27,2.07,10.0,-0.7,1.988694677966222
+7734,Airton,Fluminense,Airton Ribeiro Santos,mei,27,2.92,4.5,-0.3,2.6628853618524175
+7735,Moresche,Vasco,Matheus Celestino Moresche Rodrigues,mei,27,1.36,-5.8,-0.3,1.145254694144832
+7736,Ricardo,Vasco,Ricardo Queiroz de Alencastro Graça,zag,27,3.47,20.6,-1.1,3.3115425922973136
+7737,Thuler,Flamengo,Matheus Soares Thuler,zag,27,2.83,29.5,5.7,3.5810434373325295
+7738,Papagaio,Palmeiras,Rafael Elias da Silva,ata,27,1.31,-0.8,-0.8,2.514042776962248
+7739,Paulo Vitor,Vasco,Paulo Vitor Fernandes Pereira,ata,27,2.68,-2.9000000000000004,-1.3,1.6218832024527452
+7740,Fabrício,Vasco,Fabricio dos Santos Silva,lat,27,3.8,2.4000000000000004,0.3,2.6176485737061825
+7741,Ademir,América-MG,Ademir da Silva Santos Junior,ata,27,0.91,12.0,-2.5,3.2041427758736103
+7742,Giovanni Augusto,Vasco,Giovanni Augusto Oliveira Cardoso,mei,27,5.81,16.3,-0.7,2.5581078552745113
+7743,Jorginho,Ceará,Jorge Amorim de Oliveira Campos,tec,27,4.79,17.95,1.77,4.579193817501141
+7744,Yago,Botafogo,Yago Fernando da Silva,zag,27,4.9,15.6,5.0,2.3365847917868594
+7745,Fernando Miguel,Vasco,Fernando Miguel Kaufmann,gol,27,6.01,9.7,-3.0,2.7552900310637414
+7746,Uendel,Internacional,Uendel Pereira Gonçalves,lat,27,4.17,7.1000000000000005,-1.2,4.355390866815312
+7747,Ramon,Vasco,Ramon de Morais Motta ,lat,27,8.78,7.5,6.2,2.943691610889955
+7748,Romulo,Flamengo,Romulo Borges Monteiro,mei,27,3.01,1.8,0.35,1.3316465297018318
+7749,Luiz Gustavo,Vasco,Luiz Gustavo Tavares Conde,zag,27,3.91,5.199999999999998,4.3,2.327020480016903
+7750,Fabinho,Ceará,Fábio Gonçalves,mei,27,2.89,11.9,0.3,3.317412778627695
+7751,Júnior,Vitória,Geremias Ribeiro Júnior,ata,27,2.55,1.5,1.5,1.1751976867146297
+7752,Dodi,Fluminense,Douglas Moreira Fagundes,mei,27,2.96,18.7,1.0,3.570691465383705
+7753,Victor Luis,Palmeiras,Victor Luis Chuab Zamblauskas,lat,27,7.04,29.0,1.7,5.07609332684361
+7754,Andrey,Vasco,Andrey Ramos do Nascimento,mei,27,4.82,23.0,8.4,2.9864389041237804
+7755,Mateus Norton,Fluminense,Mateus Norton Gomes Chaves,mei,27,2.11,10.5,-0.5,3.046465405598032
+7756,Patrick,Ceará,Patrick William Sá de Oliveira,zag,27,1.8,-0.6000000000000001,1.4,2.9968233931627766
+7757,Paulinho,São Paulo,Paulo Henrique Pereira da Silva,ata,27,1.29,2.5,2.5,1.800451110448404
+7758,Lucas Santos,Vasco,Lucas Santos da Silva,mei,27,1.18,1.5,2.0,1.6119437473686626
+7759,Bruno Roberto,Atlético-MG,Bruno Roberto Pereira da Silva,mei,27,0.96,3.7,1.0,3.3325715976960697
+7760,Marcelo,Cruzeiro,Marcelo de Souza dos Santos Júnior,ata,27,0.79,-0.2,0.2,0.7104176682040093
+7761,Durval,Sport,Severino dos Ramos Durval da Silva,zag,27,5.99,14.9,7.0,2.340616852648423
+7762,Felipe Alves,Atlético-PR,Felipe Alves Raymundo,gol,27,0.78,1.1000000000000003,-3.3,1.6947591906330954
+7763,Mayke,Palmeiras,Mayke Rocha de Oliveira,lat,27,4.84,31.9,-1.8,5.261490347987324
+7764,Marcelo,Botafogo,Marcelo Machado dos Santos ,mei,27,4.13,8.5,5.3,1.4041460343494374
+7765,Leonardo,Grêmio,Leonardo Gomes da Conceição Silva,lat,27,3.59,40.8,9.7,4.3328469279902535
+7766,Barreto,Chapecoense,Gustavo Bonatto Barreto,mei,27,0.9,-9.0,-3.0,0.5174069661763072
+7767,Jean,Botafogo,Jean Carlos de Souza Irmer,mei,27,2.88,21.5,2.2,2.2352361291316014
+7768,Fernandinho,Bahia,Fernando José Marques Maciel,ata,27,1.72,0.7,0.5,2.8414922800520213
+7769,Kazim,Corinthians,Colin Kazim-Richards,ata,27,3.14,0.7,0.7,1.9888775347430485
+7770,Lucas Marques,Vitória,Lucas Marques de Oliveira,mei,27,3.18,2.7999999999999994,0.9,0.9670752090286465
+7771,Felipe Vizeu,Flamengo,Felipe dos Reis Pereira Vizeu do Carmo,ata,27,5.86,21.7,3.85,2.895085161955652
+7772,Tomás Andrade,Atlético-MG,Tomás Gustavo Andrade,mei,27,3.76,19.8,0.6,4.361844715080135
+7773,Jean,Palmeiras,Jean Raphael Vanderlei Moreira,lat,27,6.39,17.099999999999998,5.5,4.315326240081475
+7774,Lisca,Ceará,Luiz Carlos Cirne Lima de Lorenzi,tec,27,5.2,27.11,3.32,5.164792684286112
+7775,Cláudio Prates,Bahia,Cláudio Prates,tec,27,7.96,5.76,2.32,3.748751124543242
+7776,Evandro,Sport,Evandro Lima de Oliveira Filho,lat,27,3.86,7.7,7.7,2.3499529142575843
+7777,Ronaldo,Vitória,Ronaldo de Oliveira Strada,gol,27,4.03,20.4,8.5,2.711363561258521
+7778,Nickson,Vitória,Nickson Gabriel Reis Silva,mei,27,2.08,2.9000000000000004,1.6,0.9734682097577401
+7779,Cedric,Vitória,Ilson Cedric Borges de Accacio Lima,lat,27,3.29,20.4,5.0,3.0404111571247925
+7780,Juninho,Atlético-MG,José Carlos Ferreira Júnior,zag,27,4.78,2.6,1.4,3.740784295347819
+7781,Marcinho,Atlético-PR,Marcio Antonio de Sousa Júnior,ata,27,3.64,9.1,3.1,1.8783105122153745
+7782,Luan,Palmeiras,Luan Garcia Teixeira,zag,27,6.24,24.0,11.9,4.286811176285033
+7783,João Lucas,Ceará,João Lucas Cardoso,lat,27,1.09,13.5,-0.9,4.36786861006887
+7784,Kaio,Grêmio,Kaio Silva Mendes,mei,27,2.14,2.2,-0.5,0.9169808267844577
+7785,Raul,Vasco,Raul Lô Gonçalves,mei,27,1.84,20.800000000000004,1.7,2.845792888083722
+7786,Luidy,Ceará,Luidy Viegas,ata,27,3.3,2.7,1.5,3.0204881987152854
+7787,Bruno Bispo,Vitória,Bruno Bispo dos Anjos,zag,27,4.76,18.4,5.0,2.442919028439022
+7788,Geovane Itinga,Bahia,Geovane Santana Souza,ata,27,1.6,0.5,0.5,2.828706278593834
+7789,Marcelo Benevenuto,Botafogo,Marcelo da Conceição Benevenuto Malaquias,zag,27,6.69,1.4,3.5,1.4287786882555724
+7790,Artur,Palmeiras,Artur Victor Guimarães,ata,27,2.34,7.6,0.5,3.0510548382061082
+7791,Daniel,Internacional,Daniel de Sousa Brito,gol,27,0.75,-1.5,-1.5,3.4765452082469928
+7792,Dudu,Fluminense,Luiz Eduardo Teodora da Silva,ata,27,1.28,-1.1,-1.1,2.5961088081873775
+7793,Miranda,Vasco,Matheus dos Santos Miranda,zag,27,1.21,1.7,1.7,2.1032654544986285
+7794,Dudu Cearense,Botafogo,Alexandro Silva de Souza,mei,27,2.91,-2.5,-0.5,0.7009159541491443
+7795,Luis Ricardo,Botafogo,Luis Ricardo Silva Umbelino,lat,27,3.71,11.2,3.5,2.5249248738106416
+7796,Caíque,São Paulo,Caique da Silva Maria,ata,27,1.15,2.0,2.0,1.768486106802936
+7797,Chará,Atlético-MG,Yimmi Javier Chará Zamora,ata,27,6.68,1.4,-0.5,3.4767640680911174
+7798,Terans,Atlético-MG,Miguel David Terans Pérez  ,mei,27,3.24,9.4,-1.3,3.6969726392544033
+7799,Iacovelli,Paraná,Matheus Felipe Camargo Iacovelli,ata,27,2.86,1.7,1.2,2.4918494181509736
+7800,Marcos Paquetá,Botafogo,Marcos Paquetá,tec,27,9.09,10.51,2.65,2.407649843767503
+7801,Arouca,Vitória,Marcos Arouca da Silva,mei,27,2.55,2.3000000000000003,-2.6,0.9351102053831788
+7802,Douglas,Grêmio,Douglas dos Santos,mei,27,5.42,22.1,0.2,2.189187971874078
+7803,Bruno,Bahia,Bruno Vieira do Nascimento,lat,27,2.69,13.000000000000002,-1.9,4.284767702342009
+7804,Jonathas,Corinthians,Jonathas Cristian de Jesus,ata,27,5.22,13.3,3.0,2.7943956266088383
+7805,Charles,Paraná,Charles Luis Reiter,zag,27,4.79,0.9,0.9,2.628009630825804
+7806,Digão,Fluminense,Rodrigo Júnior Paula Silva,zag,27,4.87,17.299999999999994,1.3,3.9597251608481727
+7807,Wellington Silva,Internacional,Wellington Alves da Silva,ata,27,3.83,7.5,3.75,3.7240265371202077
+7808,Gilberto,Bahia,Gilberto Oliveira Souza Júnior,ata,27,9.02,35.3,7.9,5.053470532318396
+7809,Gustavo Scarpa,Palmeiras,Gustavo Henrique Furtado Scarpa,mei,27,10.51,10.6,2.8,2.9516133729147156
+7810,Marcelo Oliveira,Fluminense,Marcelo de Oliveira Santos,tec,27,9.39,20.200000000000006,2.2,4.541590971083394
+7811,Ricardo Drubscky,América-MG,Ricardo Drubscky,tec,27,8.9,3.52,2.35,3.2457893216455616
+7812,Marinho,Grêmio,Mário Sérgio Santos Costa,ata,27,12.27,31.4,3.3,3.0749685268439793
+7813,Matheus Savio,Flamengo,Matheus Gonçalves Savio,mei,27,2.93,11.3,-0.3,1.938981598965721
+7814,Joao Rojas,São Paulo,Joao Robin Rojas Mendoza,ata,27,7.08,15.5,8.7,2.631541205230568
+7815,Uribe,Flamengo,Fernando Uribe Hincapié,ata,27,6.67,4.0,2.8,1.76352403290609
+7816,Danilo Avelar,Corinthians,Danilo Fernando Avelar,lat,27,6.1,-2.2,4.9,2.460416846210813
+7817,Bruno Nazário,Atlético-PR,Bruno dos Santos Nazário,mei,27,2.53,10.9,0.5,1.7021530381748593
+7818,Edinho,Atlético-MG,Francisco Edson Moreira da Silva,ata,27,3.36,2.8,2.3,3.566266078298427
+7819,Bryan,Vitória,Bryan Silva Garcia,lat,27,6.56,1.5999999999999996,5.9,1.8385270200552015
+7820,Eduardo Brock,Ceará,Eduardo Schroeder Brock,zag,27,4.61,22.1,5.0,4.448034558667017
+7821,Osman,Chapecoense,Osman de Menezes Venâncio Junior,ata,27,5.24,3.3,10.8,1.5949775430190156
+7822,Barcos,Cruzeiro,Hernán Barcos,ata,27,7.19,6.7,0.6,1.1515347185114657
+7823,Tiago Nunes,Atlético-PR,Tiago Retzlaff Nunes,tec,27,9.04,19.82,3.85,3.147413197973291
+7824,Max,Sport,Maximiliano Lélis Rodrigues,zag,27,1.78,1.2,1.2,1.4647757527626033
+7825,Oswaldo Henríquez,Vasco,Oswaldo José Henríquez Bocanegra,zag,27,5.58,1.4,5.0,2.0840864523113476
+7826,Calyson,Ceará,Calyson Rubens Santiago Rosa,mei,27,1.71,16.9,0.5,3.6370628150823734
+7827,Lucas Cândido,Atlético-MG,Lucas Cândido Silva,mei,27,1.43,6.199999999999998,-0.5,3.492396615923409
+7828,Luan,São Paulo,Luan Vinicius da Silva Santos ,mei,27,0.77,0.8999999999999999,-2.5,1.4069316116187074
+7829,Saulo,Botafogo,Saulo Ferreira Silva Nascimento,gol,27,1.36,-7.6,3.0,0.9939931408747786
+7830,Rodolfo ,Paraná,Rodolfo José da Silva Bardella,ata,27,6.06,2.5,8.4,2.542993423983722
+7831,Jean,São Paulo,Jean Paulo Fernandes Filho,gol,27,5.73,-2.0,-2.0,1.8406548143844
+7832,Everaldo ,Fluminense,Everaldo Silva do Nascimento,ata,27,1.39,40.90000000000001,-0.3,5.281169114406677
+7833,Danilo Silva,Internacional,Danilo Aparecido da Silva,zag,27,5.08,6.7,3.35,3.860186749795038
+7834,Nicolas,Atlético-PR,Nicolas Vichiatto da Silva,lat,27,3.53,2.4,2.4,2.1069157959775833
+7835,Walter Bou,Vitória,Walter Bou,ata,27,4.68,7.0,-1.9,1.526812726814776
+7836,Erick,Vitória,Erick de Arruda Serafim,ata,27,3.94,17.5,4.6,2.198077803369601
+7837,Serginho Chulapa,Santos,Sérgio Bernardino,tec,27,10.28,3.52,3.52,3.319312496135346
+7838,Mateus,Vitória,Mateus Rodrigues Dos Santos ,lat,27,3.57,6.1,6.1,2.126212052864412
+7839,Carlos Gabriel,Atlético-MG,Carlos Gabriel Moreira de Oliviera,lat,27,3.74,8.2,4.7,4.568424450280958
+7840,Doffo,Chapecoense,Agustín Doffo,mei,27,0.83,11.1,-2.3,1.8024001127241145
+7841,Luiz Felipe,Santos,Luiz Felipe do Nascimento dos Santos,zag,27,2.71,3.9,-1.8,2.9471371098143955
+7842,René,Paraná,René Ferreira dos Santos,zag,27,3.36,15.599999999999998,2.3,3.567780738002559
+7843,Iago Maidana,Atlético-MG,Iago Justen Maidana Martins,zag,27,3.67,8.0,3.1,4.086006334718872
+7844,Marcelo Meli,Vitória,César Marcelo Meli,mei,27,4.81,1.3,-1.8,0.8711801980922429
+7845,Jonatan Álvez,Internacional,Jonatan Daniel Álvez Sagar,ata,27,8.06,0.9,6.3,3.302088489000032
+7846,Matheusinho,América-MG,Matheus Leonardo Sales Cardoso,mei,27,2.97,18.4,-0.5,3.3220633353713995
+7847,Léo Santos,Corinthians,Leonardo Rodrigues dos Santos,zag,27,2.57,7.5,2.75,2.61090580282899
+7848,Ruan Renato,Vitória,Ruan Renato Bonifácio Augusto,zag,27,3.31,-2.6,5.8,1.1003888753293722
+7849,Edinho,Ceará,Edimo Ferreira Campos,mei,27,2.71,6.2,-3.6,2.953011737069361
+7850,David,América-MG,David França Oliveira e Silva,mei,27,2.49,5.900000000000001,1.1,2.5229382442347035
+7851,Adilson Batista,América-MG,Adilson Dias Batista,tec,27,8.19,12.68,4.19,3.8313881884305325
+7852,Bruno Peres,São Paulo,Bruno da Silva Peres,lat,27,10.06,30.299999999999994,6.2,4.234641645747894
+7853,Marcelo Cirino,Atlético-PR,Marcelo Cirino da Silva,ata,27,7.22,22.8,9.7,2.754151612101194
+7854,Cardona,Ceará,Jown Anderson Cardona Agudelo,mei,27,3.62,10.7,4.9,3.240696769878572
+7855,Yann Rolim,Chapecoense,Yann Del Pino Rolim,mei,27,1.85,11.5,1.2,1.827972115640489
+7856,Juninho Quixadá,Ceará,Pedro Julião Azevedo Junior,ata,27,4.41,20.8,7.0,4.177621330681222
+7857,Hernane,Grêmio,Hernane Vidal Souza,ata,27,4.32,22.5,2.7,2.505991461954652
+7858,Luciano,Fluminense,Luciano da Rocha Neves,ata,27,4.84,20.4,1.0,3.970603964942495
+7859,Léo Pereira,Atlético-PR,Leonardo Pereira,zag,27,3.12,14.3,4.4,2.3980507686358195
+7860,Alan Ruschel,Chapecoense,Alan Luciano Ruschel,mei,27,3.37,4.1,0.25,1.3548900616875645
+7861,Emerson Santos,Internacional,Emerson Raymundo Santos,zag,27,3.65,26.7,7.2,5.138786895613753
+7862,Lucas Kal,São Paulo,Lucas Kal Schenfeld Progioli,zag,27,5.17,8.0,8.0,2.3393703690561294
+7863,Guilherme Guedes,Grêmio,Guilherme Alecsander Guedes,lat,27,0.95,1.0,1.0,1.7884326378110127
+7864,Crysan,Atlético-PR,Crysan da Cruz Queiroz Barcelos,ata,27,3.21,0.6,0.6,1.3349054502424211
+7865,Nilton,Bahia,Nílton Ferreira Júnior,mei,27,5.32,4.2,-0.5,2.7740158184060966
+7866,Cuca,Santos,Alexi Stival,tec,27,8.85,24.65,1.95,4.670153550192818
+7867,Luiz Felipe Scolari,Palmeiras,Luiz Felipe Scolari,tec,27,11.35,25.79,4.33,4.7977146784273135
+7868,Vitinho,Flamengo,Victor Vinícius Coelho dos Santos,ata,27,13.47,19.1,5.2,2.7288671429992193
+7869,Derlis González,Santos,Derlis Alberto González Galeano,ata,27,7.27,23.8,-1.0,4.032040036396436
+7870,Yuri,Botafogo,Yuri Antonio Costa da Silva,lat,27,1.71,4.9,4.9,2.1221658278777467
+7871,Nathan,Atlético-MG,Nathan Allan de Souza,mei,27,4.24,10.3,1.2,3.7545096458162455
+7872,Paulinho,Bahia,Paulo Victor da Silva,lat,27,2.64,8.799999999999997,0.7,4.016261671720079
+7873,Carlos Sánchez,Santos,Carlos Andrés Sánchez Arcosa,mei,27,10.14,23.1,0.3,3.6960575441285823
+7874,Orzusa,Chapecoense,Edgardo Daniel Orzusa Cáceres,mei,27,3.56,1.0,1.0,1.156707039085664
+7875,Rafael Grampola,Paraná,Rafael Santiago Gonçalves,ata,27,2.15,15.0,1.3,3.3421185151204185
+7876,Carlos Augusto,Corinthians,Carlos Augusto Zopalato Neves,lat,27,2.68,10.2,10.0,3.253148936618416
+7877,Matheus Henrique,Grêmio,Matheus Henrique de Souza,mei,27,0.77,5.1000000000000005,-0.15,1.1023778479281714
+7878,Carneiro,São Paulo,Gonzalo Rodrigo Carneiro Méndez,ata,27,2.88,1.9,-0.13,1.7620931060738425
+7879,Araos,Corinthians,Ángelo Giovanni Araos Llanos,mei,27,5.5,-5.1,0.2,1.3268520052914217
+7880,Thiaguinho,Corinthians,Thiago Beserra dos Santos,mei,27,2.65,1.7,1.7,1.7615760548697845
+7881,João Burse,Vitória,João Burse,tec,27,6.78,2.68,2.68,1.8344081029170196
+7882,Leandro Castan,Vasco,Leandro Castan da Silva,zag,27,7.87,4.1,0.5,2.256697471996874
+7883,Vinícius Araújo,Vasco,Vinícius Vasconcelos Araújo,ata,27,4.29,-0.09999999999999998,-0.9,1.8008872228673651
+7884,Morato,Sport,Andrew Erik Feitosa,ata,27,2.03,5.500000000000001,2.6,1.552370565606048
+7885,Maxi López,Vasco,Maximiliano Gastón López,ata,27,6.2,10.6,-3.0,2.484938300880377
+7886,Marllon,Corinthians,Marllon Gonçalves Jerônimo Borges,zag,27,5.52,5.4,0.7,2.4766527875180255
+7887,Gustavo Gómez,Palmeiras,Gustavo Raúl Gómez Portillo,zag,27,8.92,26.6,7.7,4.4530291952414665
+7888,Piris da Motta,Flamengo,Robert Ayrton Piris Da Motta,mei,27,7.04,6.0,4.6,1.6001525603237616
+7889,Dudu,Internacional,Luis Eduardo Marques Dos Santos,lat,27,3.83,9.0,4.0,4.476857880668089
+7890,Victor Andrade,Chapecoense,Victor Andrade Santos,ata,27,3.51,18.5,1.2,2.5667136538412385
+7891,Diego Torres,Chapecoense,Diego Fabián Torres,mei,27,5.98,13.5,6.3,1.9558321302223602
+7892,Carpegiani,Vitória,Paulo César Carpegiani,tec,27,8.1,16.689999999999998,2.6,2.7300675050630288
+7893,Lenon,Vasco,Lenon Fernandes Ribeiro,lat,27,2.22,2.4000000000000004,-0.3,2.6176485737061825
+7894,Bryan Ruíz,Santos,Bryan Jafet Ruíz González,mei,27,12.25,3.9,3.6,2.4686014041426168
+7895,Wesley Pacheco,América-MG,Wesley Pacheco Gomes,ata,27,2.65,3.7,1.2,2.673523715358844
+7896,Bruno Grassi,Grêmio,Bruno Medeiros Grassi,gol,27,4.52,8.0,8.0,1.906895092981291
+7897,Eduardo Baptista,Sport,Eduardo Augusto Baptista Miguel,tec,27,7.02,18.89,0.29,2.9921663708307626
+7898,Marcelo Benítez,Vitória,Marcelo Nicolás Benítez,lat,27,3.64,14.1,2.6,2.6376521111918976
+7899,Plata,Atlético-PR,Ánderson Daniel Plata Guillén,ata,27,4.77,2.7,2.7,1.469158465553386
+7900,Valdir,Vasco,Valdir de Morais Filho,tec,27,6.46,7.83,1.8,2.891625188283571
+7901,Jhony,Paraná,Jhony Douglas Santiago,mei,27,2.75,0.0,2.5,2.0919369185921832
+7902,Clayton,Bahia,Clayton Silveira da Silva,ata,27,4.52,-0.7999999999999997,-0.3,2.745597269115618
+7903,Léo Ceará,Vitória,Leonardo de Sousa Pereira,ata,27,2.57,18.4,2.3,2.255614809931443
+7904,Léo Gomes,Vitória,Leonardo Silva Gomes,mei,27,1.35,2.5,3.2,0.9478962068413659
+7905,Lucas Ribeiro,Vitória,Lucas Ribeiro dos Santos,zag,27,0.76,20.700000000000006,-2.8,2.5899580452081747
+7906,Diego,Botafogo,Diego Terra Loureiro,gol,27,1.98,5.0,5.0,1.7995112327405682
+7907,Jean Pyerre,Grêmio,Jean Pyerre Casagrande Silveira Correa,mei,27,2.4,6.2,0.5,1.1727008559482006
+7908,Robson Bambu,Santos,Robson Alves de Barros,zag,27,1.81,36.7,5.7,5.044041348957087
+7909,Márcio Azevedo,Atlético-PR,Márcio Gonzaga de Azevedo,lat,27,4.5,2.8,-0.5,2.132487798893958
+7910,Diego Tavares,Paraná,Diego Barbosa Tavares,lat,27,3.92,4.5,4.5,3.3277897711770716
+7911,Danielzinho,Fluminense,Daniel Sampaio Simões,mei,27,2.36,0.2,0.2,2.387986330501394
+7912,Fernando Castro,Bahia,Fernando Augusto de Castro Ribeiro,gol,27,0.76,-2.6,-1.3,2.95841199273714
+7913,Roberto,Chapecoense,Roberto Heuchayer Santos de Araújo,lat,27,5.08,8.8,4.4,2.6035289157306405
+7914,Rony,Atlético-PR,Ronielson da Silva Barbosa,ata,27,9.12,11.3,8.2,2.0189565282554334
+7915,Rodrigo Figueiredo,Corinthians,Rodrigo Figueiredo de Carvalho,mei,27,1.51,-0.1,-0.1,1.6465020417461003
+7916,Nonoca,Sport,Lucas de Souza Ventura,mei,27,2.96,3.7,3.7,1.146065065318164
+7917,Fernando Prass,Palmeiras,Fernando Buttenbender Prass,gol,27,9.75,2.7,2.7,3.0656865392257298
+7918,Robinho,Ceará,Francisco Wellington Barbosa de Lisboa,ata,27,2.01,1.0,1.0,2.911807186320695
+7919,Nery Bareiro,Chapecoense,Nery Rubén Bareiro Zorrilla,zag,27,3.46,3.5,-0.17,1.795067762984782
+7920,Lincoln,América-MG,Lincoln Henrique Oliveira dos Santos,mei,27,3.06,3.7,0.25,2.3822922281946446
+7921,Marquinhos,Chapecoense,José Marcos Costa Martins,mei,27,1.17,3.1,2.2,1.290960054396629
+7922,Leandrinho,Atlético-MG,Leandro Henrique do Nascimento,ata,27,2.62,1.5,1.5,3.4831570688202107
+7923,Ramires,Bahia,Eric dos Santos Rodrigues,mei,27,3.07,17.3,3.3,3.6114989139173543
+7924,Marrony,Vasco,Marrony da Silva Liberato,mei,27,2.23,13.1,3.2,2.353531831943517
+7925,Felipe Jonatan,Ceará,Felipe Jonatan Rocha Andrade,lat,27,0.77,16.099999999999998,-1.3,4.5340866290253015
+7926,Mateus Gonçalves,Sport,Mateus Gonçalves Martins,ata,27,1.42,0.4,-0.5,1.2263275284222757
+7927,Deivid,Paraná,Deivid Anacleto de Souza,ata,27,2.45,1.5,0.3,2.4790634166927865
+7928,Fernando Leal,América-MG,Fernando Leal Fonseca,gol,27,3.09,4.4,4.4,3.046163457207706
+7929,Rodolfo,Fluminense,Rodolfo Alves de Melo,gol,27,4.46,12.0,12.0,3.7614806404438417
+7930,Ortigoza,Paraná,José Maria Ortigoza Ortiz,ata,27,4.45,4.3,1.7,2.6580674371074062
+7931,Berrío ,Flamengo,Orlando Enrique Berrío Meléndez,ata,27,4.06,0.3999999999999999,1.2,1.5333760066587214
+7932,Willian Maranhão,Vasco,Willian Marlon Ferreira Moraes,mei,27,2.16,-4.2,-0.4,1.247542705810329
+7933,Yuri,Santos,Yuri Oliveira Lima,mei,27,2.41,-3.7,-3.7,1.9827333487315055
+7934,Jair,Sport,Jair Rodrigues Júnior,mei,27,2.58,6.300000000000002,0.9,1.312283084274597
+7935,Marcão Silva,Sport,Marcos Antônio Almeida Silva,mei,27,2.52,8.299999999999999,0.6,1.4401430988564683
+7936,Fabiano,Vitória,Fabiano da Silva Souza,lat,27,4.58,15.900000000000002,4.2,2.7527261243155823
+7937,Diogo Silva,Ceará,Diogo José Gonçalves da Silva,gol,27,3.23,5.5,5.5,3.527380955875112
+7938,Pedro Ken,Ceará,Pedro Ken Morimoto Moreira,mei,27,3.96,1.2,0.63,2.6333617006146826
+7939,Felippe Cardoso,Santos,Wanderson Felippe Cardoso dos Santos,ata,27,2.79,-1.0,-1.0,2.4465758555812314
+7940,Matheus Peixoto,Sport,Matheus Vieira Campos Peixoto,ata,27,2.95,0.30000000000000004,-0.5,1.2199345276931821
+7941,Pablo Pardal,Sport,Pablo Silva de Lara,mei,27,1.63,0.5,0.5,0.9414890419871698
+7942,Maurício Cordeiro,Vitória,Maurício Plenckauskas Cordeiro,ata,27,3.73,5.5,5.5,1.4309177158783726
+7943,Diego Ferreira,Atlético-PR,Diego Ferreira Matheus,lat,27,3.67,7.6,7.6,2.4393518338904494
+7944,Wesley Natã,Chapecoense,Wesley Natã Wachholz,ata,27,1.5,-0.1,-0.1,1.3776155182298342
+7945,Éderson,Cruzeiro,Éderson José dos Santos Lourenço da Silva,mei,27,1.26,-0.5,-0.17,0.400007178852529
