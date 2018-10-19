@@ -16,7 +16,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OneHotEncoder
 
-RODADA_ATUAL = 27
+RODADA_ATUAL = 30
 
 # Importing the dataset
 df = pd.read_csv('../data/dados_2018.csv')
@@ -62,7 +62,7 @@ df_atual = df[df['atletas.rodada_id'] == RODADA_ATUAL]
 df_atual = df_atual[['atletas.apelido', 'atletas.clube.id.full.name', 'atletas.nome', 'atletas.posicao_id', \
                              'atletas.rodada_id', 'atletas.preco_num','atletas.pontos_num_sum_last5', 'atletas.media_num' ]]
 df_atual['pred_score'] = y_pred_atual
-df_atual.to_csv('../prediction/predict-MLR-1.csv', encoding='utf-8')
+df_atual.to_csv('../predictions/predict-MLR-1.csv', encoding='utf-8')
 # cross-validation score
 from sklearn.model_selection import cross_val_score
 accuracies = cross_val_score(estimator = linreg, X = X_train, y = y_train, cv = 10)

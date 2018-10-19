@@ -8,7 +8,7 @@ Created on 2018-09-13
 import numpy as np
 import pandas as pd
 
-CURRENT_ROUND = 27
+CURRENT_ROUND = 30
 
 # Load data from all 2018 rounds
 # Data from https://github.com/henriquepgomide/caRtola
@@ -39,6 +39,9 @@ rounds.append(pd.read_csv('../data/rodada-23.csv'))
 rounds.append(pd.read_csv('../data/rodada-24.csv'))
 rounds.append(pd.read_csv('../data/rodada-25.csv'))
 rounds.append(pd.read_csv('../data/rodada-26.csv'))
+rounds.append(pd.read_csv('../data/rodada-27.csv'))
+rounds.append(pd.read_csv('../data/rodada-28.csv'))
+rounds.append(pd.read_csv('../data/rodada-29.csv'))
 
 df = pd.concat(rounds)
 #df.shape[0]
