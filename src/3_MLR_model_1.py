@@ -16,7 +16,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OneHotEncoder
 
-RODADA_ATUAL = 36
+RODADA_ATUAL = 37
 
 # Importing the dataset
 df = pd.read_csv('../data/dados_2018.csv')
