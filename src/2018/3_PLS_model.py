@@ -16,7 +16,7 @@ from sklearn.cross_validation import train_test_split
 CURRENT_ROUND = 26
 
 # Importing the dataset
-df = pd.read_csv('../data/dados_2018.csv')
+df = pd.read_csv('data/dados_2018.csv')
 
 df = df[df['atletas.rodada_id'] >= 6]
 
@@ -119,7 +119,7 @@ df_atual = df[df['atletas.rodada_id'] == CURRENT_ROUND]
 df_atual = df_atual[['atletas.apelido', 'atletas.clube.id.full.name', 'atletas.nome', 'atletas.posicao_id', \
                              'atletas.rodada_id', 'atletas.preco_num','atletas.pontos_num_sum_last5', 'atletas.media_num' ]]
 df_atual['pred_score'] = y_pred_atual
-df_atual.to_csv('../prediction/predict-PLS.csv', encoding='utf-8')
+df_atual.to_csv('predictions/predict-PLS.csv', encoding='utf-8')
 # cross-validation score
 from sklearn.model_selection import cross_val_score
 accuracies = cross_val_score(estimator = pls2, X = X_train, y = y_train, cv = 10)

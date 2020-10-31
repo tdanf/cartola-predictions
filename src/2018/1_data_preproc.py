@@ -13,43 +13,43 @@ CURRENT_ROUND = 38
 # Load data from all 2018 rounds
 # Data from https://github.com/henriquepgomide/caRtola
 rounds = []
-rounds.append(pd.read_csv('../data/rodada-1.csv'))
-rounds.append(pd.read_csv('../data/rodada-2.csv'))
-rounds.append(pd.read_csv('../data/rodada-3.csv'))
-rounds.append(pd.read_csv('../data/rodada-4.csv'))
-rounds.append(pd.read_csv('../data/rodada-5.csv'))
-rounds.append(pd.read_csv('../data/rodada-6.csv'))
-rounds.append(pd.read_csv('../data/rodada-7.csv'))
-rounds.append(pd.read_csv('../data/rodada-8.csv'))
-rounds.append(pd.read_csv('../data/rodada-9.csv'))
-rounds.append(pd.read_csv('../data/rodada-10.csv'))
-rounds.append(pd.read_csv('../data/rodada-11.csv'))
-rounds.append(pd.read_csv('../data/rodada-12.csv'))
-rounds.append(pd.read_csv('../data/rodada-13.csv'))
-rounds.append(pd.read_csv('../data/rodada-14.csv'))
-rounds.append(pd.read_csv('../data/rodada-15.csv'))
-rounds.append(pd.read_csv('../data/rodada-16.csv'))
-rounds.append(pd.read_csv('../data/rodada-17.csv'))
-rounds.append(pd.read_csv('../data/rodada-18.csv'))
-rounds.append(pd.read_csv('../data/rodada-19.csv'))
-rounds.append(pd.read_csv('../data/rodada-20.csv'))
-rounds.append(pd.read_csv('../data/rodada-21.csv'))
-rounds.append(pd.read_csv('../data/rodada-22.csv'))
-rounds.append(pd.read_csv('../data/rodada-23.csv'))
-rounds.append(pd.read_csv('../data/rodada-24.csv'))
-rounds.append(pd.read_csv('../data/rodada-25.csv'))
-rounds.append(pd.read_csv('../data/rodada-26.csv'))
-rounds.append(pd.read_csv('../data/rodada-27.csv'))
-rounds.append(pd.read_csv('../data/rodada-28.csv'))
-rounds.append(pd.read_csv('../data/rodada-29.csv'))
-rounds.append(pd.read_csv('../data/rodada-30.csv'))
-rounds.append(pd.read_csv('../data/rodada-31.csv'))
-rounds.append(pd.read_csv('../data/rodada-32.csv'))
-rounds.append(pd.read_csv('../data/rodada-33.csv'))
-rounds.append(pd.read_csv('../data/rodada-34.csv'))
-rounds.append(pd.read_csv('../data/rodada-35.csv'))
-rounds.append(pd.read_csv('../data/rodada-36.csv'))
-rounds.append(pd.read_csv('../data/rodada-37.csv'))
+rounds.append(pd.read_csv('data/rodada-1.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-2.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-3.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-4.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-5.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-6.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-7.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-8.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-9.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-10.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-11.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-12.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-13.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-14.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-15.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-16.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-17.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-18.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-19.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-20.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-21.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-22.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-23.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-24.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-25.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-26.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-27.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-28.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-29.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-30.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-31.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-32.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-33.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-34.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-35.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-36.csv'))
+rounds.append(pd.read_csv('2018/data/rodada-37.csv'))
 
 df = pd.concat(rounds)
 #df.shape[0]
@@ -64,7 +64,7 @@ df = df[(df['atletas.pontos_num'] !=0 ) & (df['atletas.variacao_num'] != 0)]
 
 # import list with all played matches and the matches of the next round
 # data from https://github.com/henriquepgomide/caRtola
-match_index = pd.read_csv('../data/2018_partidas.csv')
+match_index = pd.read_csv('2018/data/2018_partidas.csv')
 
 # creates a list with all players and asign the current round to then
 players_list = df.drop_duplicates(subset = 'atletas.atleta_id')
@@ -82,14 +82,14 @@ df = df.append(players_list)
 
 # the two csv files above were created to make it easy to identify a club
 #    in the 'rodada-xx.csv' e '2018_partidas.csv' files
-club_id_partida = pd.read_csv('../data/clube_partida.csv', index_col = 0).to_dict()['id']
-club_id_rodada = pd.read_csv('../data/clube_rodada.csv', index_col = 0).to_dict()['id']
+club_id_partida = pd.read_csv('2018/data/clube_partida.csv', index_col = 0).to_dict()['id']
+club_id_rodada = pd.read_csv('2018/data/clube_rodada.csv', index_col = 0).to_dict()['id']
 
-club_id_rodada_2 = pd.read_csv('../data/clube_rodada.csv')
+club_id_rodada_2 = pd.read_csv('2018/data/clube_rodada.csv')
 
 # Importa .csv com a força ofensiva e defensiva de cada time
 # retirado de https://projects.fivethirtyeight.com/soccer-predictions/brasileirao/
-forca_clubes = pd.read_csv('../data/forca-clubes-fte.csv')
+forca_clubes = pd.read_csv('2018/data/forca-clubes-fte.csv')
 
 # match place matrix
 # 1 = home
@@ -295,7 +295,7 @@ df3 = df3.drop(['Unnamed: 0', 'atletas.clube_id', 'atletas.foto','atletas.slug']
 
 
 # salva em csv para ser usado no próximo script ou no R
-df3.to_csv('../data/dados_2018.csv', encoding='utf-8', index=False)
+df3.to_csv('2018/data/dados_2018.csv', encoding='utf-8', index=False)
 
 #df = pd.read_csv('dados_2018.csv')
 

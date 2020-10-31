@@ -20,7 +20,7 @@ from sklearn.model_selection import cross_val_score
 CURRENT_ROUND = 27
 
 # Importing the dataset
-df = pd.read_csv('../data/dados_2018.csv')
+df = pd.read_csv('data/dados_2018.csv')
 
 df = df[df['atletas.rodada_id'] >= 6]
 
@@ -103,7 +103,7 @@ for pos in positions:
     print(accuracies.mean())
     #accuracies.std()
 
-df_final.to_csv('../prediction/predict-MLR-2.csv', encoding='utf-8')
+df_final.to_csv('predictions/predict-MLR-2.csv', encoding='utf-8')
 
 
 

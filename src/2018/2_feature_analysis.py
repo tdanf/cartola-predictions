@@ -14,7 +14,7 @@ import seaborn as sns
 CURRENT_ROUND = 26
 
 # Importing the dataset
-df = pd.read_csv('../data/dados_2018.csv')
+df = pd.read_csv('data/dados_2018.csv')
 
 df = df[df['atletas.rodada_id'] != CURRENT_ROUND]
 df = df[df['atletas.rodada_id'] >= 20]
